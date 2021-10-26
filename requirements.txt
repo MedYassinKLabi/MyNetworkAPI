@@ -1,5 +1,5 @@
 Flask==2.0.2
-Jinja==3.0.2
+Jinja2==3.0.2
 MarkupSafe==2.0.1
 Werkzeug==2.0.1
 bson==0.5.10
