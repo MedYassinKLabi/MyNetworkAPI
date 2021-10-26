@@ -185,7 +185,7 @@ def predict():
                 return jsonify({"message":traceback.format_exc(),"success":False})
         else:
             return jsonify({"message":"No model here to use","success":False})
-
+        
 
 @app.route('/')
 def root():
