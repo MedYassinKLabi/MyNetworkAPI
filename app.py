@@ -189,7 +189,7 @@ def predict():
 
 @app.route('/')
 def root():
-    return "Bienvenue à Mynetwork API, crée par Klabi Med Yassin ingénieur GTR"
+    return "Bienvenue à Mynetwork API"
 
 
 if __name__ == '__main__':
