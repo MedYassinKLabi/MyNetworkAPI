@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.5 (4061315 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="36.0846213" minlon="10.3820801" maxlat="36.0934994" maxlon="10.3930664"/>
+ <node id="694368806" visible="true" version="5" changeset="87637521" timestamp="2020-07-07T07:23:41Z" user="Solheimajokull" uid="10334725" lat="36.0879691" lon="10.3931884"/>
+ <node id="1439456661" visible="true" version="2" changeset="12199408" timestamp="2012-07-12T19:24:48Z" user="derden" uid="29055" lat="35.7347219" lon="10.5460945">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1439456673" visible="true" version="3" changeset="42450549" timestamp="2016-09-26T16:49:47Z" user="bahnpirat" uid="13203" lat="35.7355780" lon="10.5463848">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1439468458" visible="true" version="5" changeset="42450549" timestamp="2016-09-26T16:49:48Z" user="bahnpirat" uid="13203" lat="35.7388395" lon="10.5424851">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1455087460" visible="true" version="6" changeset="110927018" timestamp="2021-09-08T15:29:58Z" user="Mohamed_Gamal" uid="9945390" lat="36.1010009" lon="10.3890353"/>
+ <node id="1823228365" visible="true" version="1" changeset="12199408" timestamp="2012-07-12T19:24:43Z" user="derden" uid="29055" lat="35.7433862" lon="10.5400862">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1888191270" visible="true" version="3" changeset="19475797" timestamp="2013-12-16T04:02:27Z" user="meppen7" uid="17422" lat="35.7599052" lon="10.5311998">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1888191271" visible="true" version="3" changeset="19475797" timestamp="2013-12-16T04:02:27Z" user="meppen7" uid="17422" lat="35.7639726" lon="10.5290270">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1888191272" visible="true" version="2" changeset="14954409" timestamp="2013-02-08T10:37:10Z" user="ulrichm" uid="192829" lat="35.7780918" lon="10.5214735">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1888317437" visible="true" version="3" changeset="19475472" timestamp="2013-12-16T03:05:31Z" user="meppen7" uid="17422" lat="35.7812594" lon="10.5197601">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1888317438" visible="true" version="3" changeset="19475797" timestamp="2013-12-16T04:02:27Z" user="meppen7" uid="17422" lat="35.7952234" lon="10.5122538">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1888317440" visible="true" version="2" changeset="14954409" timestamp="2013-02-08T10:37:11Z" user="ulrichm" uid="192829" lat="35.9526900" lon="10.4275601">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1888317441" visible="true" version="2" changeset="14954409" timestamp="2013-02-08T10:37:11Z" user="ulrichm" uid="192829" lat="35.9734172" lon="10.4163720">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1888317442" visible="true" version="2" changeset="14954409" timestamp="2013-02-08T10:37:12Z" user="ulrichm" uid="192829" lat="35.9773755" lon="10.4142577">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1888317445" visible="true" version="2" changeset="14954409" timestamp="2013-02-08T10:37:12Z" user="ulrichm" uid="192829" lat="35.9846194" lon="10.4103535">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1888317446" visible="true" version="2" changeset="14954409" timestamp="2013-02-08T10:37:12Z" user="ulrichm" uid="192829" lat="35.9925202" lon="10.4082128">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1888317450" visible="true" version="3" changeset="19474791" timestamp="2013-12-16T00:59:00Z" user="meppen7" uid="17422" lat="36.0054559" lon="10.4046943">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1888317452" visible="true" version="2" changeset="14954409" timestamp="2013-02-08T10:37:13Z" user="ulrichm" uid="192829" lat="36.0262777" lon="10.3989805">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1888317454" visible="true" version="3" changeset="19474791" timestamp="2013-12-16T00:59:01Z" user="meppen7" uid="17422" lat="36.0395589" lon="10.3954013">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1888317455" visible="true" version="2" changeset="14954409" timestamp="2013-02-08T10:37:13Z" user="ulrichm" uid="192829" lat="36.0863753" lon="10.3825486">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1888760046" visible="true" version="3" changeset="19475797" timestamp="2013-12-16T04:02:28Z" user="meppen7" uid="17422" lat="35.7990888" lon="10.5101619">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1888760047" visible="true" version="3" changeset="19475550" timestamp="2013-12-16T03:21:37Z" user="meppen7" uid="17422" lat="35.8142810" lon="10.5020183">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1888760048" visible="true" version="2" changeset="14954409" timestamp="2013-02-08T10:37:17Z" user="ulrichm" uid="192829" lat="35.8360970" lon="10.4903257">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1888760049" visible="true" version="3" changeset="19475550" timestamp="2013-12-16T03:21:37Z" user="meppen7" uid="17422" lat="35.8516651" lon="10.4819387">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1888760050" visible="true" version="2" changeset="14954409" timestamp="2013-02-08T10:37:17Z" user="ulrichm" uid="192829" lat="35.8800668" lon="10.4666660">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1888892245" visible="true" version="3" changeset="19475797" timestamp="2013-12-16T04:02:28Z" user="meppen7" uid="17422" lat="35.7479541" lon="10.5376053">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1888902371" visible="true" version="4" changeset="95904256" timestamp="2020-12-15T23:11:55Z" user="مصطفى بلقاسم" uid="9535554" lat="36.1221527" lon="10.3727431">
+  <tag k="operator" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:ar" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:website" v="https://www.steg.com.tn/ar/"/>
+  <tag k="operator:wikidata" v="Q3488699"/>
+  <tag k="operator:wikipedia" v="ar:الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:wikipedia:ar" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1888902377" visible="true" version="4" changeset="95904256" timestamp="2020-12-15T23:11:55Z" user="مصطفى بلقاسم" uid="9535554" lat="36.1239619" lon="10.3707864">
+  <tag k="operator" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:ar" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:website" v="https://www.steg.com.tn/ar/"/>
+  <tag k="operator:wikidata" v="Q3488699"/>
+  <tag k="operator:wikipedia" v="ar:الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:wikipedia:ar" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1888902384" visible="true" version="4" changeset="95904256" timestamp="2020-12-15T23:11:55Z" user="مصطفى بلقاسم" uid="9535554" lat="36.1243723" lon="10.3712727">
+  <tag k="operator" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:ar" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:website" v="https://www.steg.com.tn/ar/"/>
+  <tag k="operator:wikidata" v="Q3488699"/>
+  <tag k="operator:wikipedia" v="ar:الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:wikipedia:ar" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1888902387" visible="true" version="4" changeset="95904256" timestamp="2020-12-15T23:11:55Z" user="مصطفى بلقاسم" uid="9535554" lat="36.1244969" lon="10.3713562">
+  <tag k="operator" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:ar" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:website" v="https://www.steg.com.tn/ar/"/>
+  <tag k="operator:wikidata" v="Q3488699"/>
+  <tag k="operator:wikipedia" v="ar:الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:wikipedia:ar" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1888902390" visible="true" version="5" changeset="95904256" timestamp="2020-12-15T23:11:55Z" user="مصطفى بلقاسم" uid="9535554" lat="36.1246526" lon="10.3714892">
+  <tag k="operator" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:ar" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:website" v="https://www.steg.com.tn/ar/"/>
+  <tag k="operator:wikidata" v="Q3488699"/>
+  <tag k="operator:wikipedia" v="ar:الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:wikipedia:ar" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2498823631" visible="true" version="2" changeset="19475550" timestamp="2013-12-16T03:21:37Z" user="meppen7" uid="17422" lat="35.8975971" lon="10.4572403">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2498823647" visible="true" version="1" changeset="18393098" timestamp="2013-10-16T20:18:45Z" user="demetrio_m" uid="196617" lat="35.9569784" lon="10.4252771">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2498823652" visible="true" version="1" changeset="18393098" timestamp="2013-10-16T20:18:45Z" user="demetrio_m" uid="196617" lat="35.9610445" lon="10.4230966">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2498823661" visible="true" version="1" changeset="18393098" timestamp="2013-10-16T20:18:46Z" user="demetrio_m" uid="196617" lat="35.9652337" lon="10.4208349">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2498823666" visible="true" version="1" changeset="18393098" timestamp="2013-10-16T20:18:46Z" user="demetrio_m" uid="196617" lat="35.9693845" lon="10.4185846">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2498829167" visible="true" version="1" changeset="18393160" timestamp="2013-10-16T20:23:47Z" user="demetrio_m" uid="196617" lat="35.9208915" lon="10.4446910">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2498829170" visible="true" version="1" changeset="18393160" timestamp="2013-10-16T20:23:47Z" user="demetrio_m" uid="196617" lat="35.9407335" lon="10.4340511">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2498829172" visible="true" version="1" changeset="18393160" timestamp="2013-10-16T20:23:47Z" user="demetrio_m" uid="196617" lat="35.9447218" lon="10.4318759">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2498829174" visible="true" version="1" changeset="18393160" timestamp="2013-10-16T20:23:48Z" user="demetrio_m" uid="196617" lat="35.9486790" lon="10.4297209">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581923553" visible="true" version="1" changeset="19474791" timestamp="2013-12-16T00:58:52Z" user="meppen7" uid="17422" lat="35.9809783" lon="10.4123320">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581923554" visible="true" version="1" changeset="19474791" timestamp="2013-12-16T00:58:52Z" user="meppen7" uid="17422" lat="35.9881648" lon="10.4094171">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581923556" visible="true" version="1" changeset="19474791" timestamp="2013-12-16T00:58:53Z" user="meppen7" uid="17422" lat="35.9967760" lon="10.4070703">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581923558" visible="true" version="1" changeset="19474791" timestamp="2013-12-16T00:58:53Z" user="meppen7" uid="17422" lat="36.0012566" lon="10.4058442">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581923560" visible="true" version="1" changeset="19474791" timestamp="2013-12-16T00:58:54Z" user="meppen7" uid="17422" lat="36.0094216" lon="10.4036171">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581923567" visible="true" version="1" changeset="19474791" timestamp="2013-12-16T00:58:55Z" user="meppen7" uid="17422" lat="36.0219830" lon="10.4001619">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581923570" visible="true" version="1" changeset="19474791" timestamp="2013-12-16T00:58:55Z" user="meppen7" uid="17422" lat="36.0305998" lon="10.3978158">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581923573" visible="true" version="1" changeset="19474791" timestamp="2013-12-16T00:58:56Z" user="meppen7" uid="17422" lat="36.0350618" lon="10.3966322">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581923575" visible="true" version="1" changeset="19474791" timestamp="2013-12-16T00:58:57Z" user="meppen7" uid="17422" lat="36.0435295" lon="10.3943115">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581943450" visible="true" version="1" changeset="19474994" timestamp="2013-12-16T01:32:29Z" user="meppen7" uid="17422" lat="36.0994134" lon="10.3789808">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581943451" visible="true" version="1" changeset="19474994" timestamp="2013-12-16T01:32:29Z" user="meppen7" uid="17422" lat="36.1037321" lon="10.3777930">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581943452" visible="true" version="3" changeset="95904256" timestamp="2020-12-15T23:11:55Z" user="مصطفى بلقاسم" uid="9535554" lat="36.1086502" lon="10.3764452">
+  <tag k="operator" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:ar" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:website" v="https://www.steg.com.tn/ar/"/>
+  <tag k="operator:wikidata" v="Q3488699"/>
+  <tag k="operator:wikipedia" v="ar:الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:wikipedia:ar" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581943453" visible="true" version="3" changeset="95904256" timestamp="2020-12-15T23:11:55Z" user="مصطفى بلقاسم" uid="9535554" lat="36.1134428" lon="10.3751362">
+  <tag k="operator" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:ar" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:website" v="https://www.steg.com.tn/ar/"/>
+  <tag k="operator:wikidata" v="Q3488699"/>
+  <tag k="operator:wikipedia" v="ar:الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:wikipedia:ar" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581943454" visible="true" version="3" changeset="95904256" timestamp="2020-12-15T23:11:55Z" user="مصطفى بلقاسم" uid="9535554" lat="36.1177140" lon="10.3739520">
+  <tag k="operator" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:ar" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:website" v="https://www.steg.com.tn/ar/"/>
+  <tag k="operator:wikidata" v="Q3488699"/>
+  <tag k="operator:wikipedia" v="ar:الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:wikipedia:ar" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581954723" visible="true" version="1" changeset="19475325" timestamp="2013-12-16T02:40:20Z" user="meppen7" uid="17422" lat="35.9795397" lon="10.4131010">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581954725" visible="true" version="1" changeset="19475325" timestamp="2013-12-16T02:40:20Z" user="meppen7" uid="17422" lat="36.0473104" lon="10.3932841">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581954726" visible="true" version="1" changeset="19475325" timestamp="2013-12-16T02:40:20Z" user="meppen7" uid="17422" lat="36.0517874" lon="10.3920564">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581954727" visible="true" version="1" changeset="19475325" timestamp="2013-12-16T02:40:21Z" user="meppen7" uid="17422" lat="36.0558441" lon="10.3909486">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581954728" visible="true" version="1" changeset="19475325" timestamp="2013-12-16T02:40:21Z" user="meppen7" uid="17422" lat="36.0601268" lon="10.3897789">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581954729" visible="true" version="1" changeset="19475325" timestamp="2013-12-16T02:40:21Z" user="meppen7" uid="17422" lat="36.0646033" lon="10.3885562">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581954730" visible="true" version="1" changeset="19475325" timestamp="2013-12-16T02:40:21Z" user="meppen7" uid="17422" lat="36.0689428" lon="10.3873709">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581954731" visible="true" version="1" changeset="19475325" timestamp="2013-12-16T02:40:22Z" user="meppen7" uid="17422" lat="36.0733179" lon="10.3861262">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581954732" visible="true" version="1" changeset="19475325" timestamp="2013-12-16T02:40:22Z" user="meppen7" uid="17422" lat="36.0776344" lon="10.3849398">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581954733" visible="true" version="1" changeset="19475325" timestamp="2013-12-16T02:40:22Z" user="meppen7" uid="17422" lat="36.0819377" lon="10.3837570">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581954734" visible="true" version="1" changeset="19475325" timestamp="2013-12-16T02:40:22Z" user="meppen7" uid="17422" lat="36.0906908" lon="10.3813678">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581954735" visible="true" version="1" changeset="19475325" timestamp="2013-12-16T02:40:23Z" user="meppen7" uid="17422" lat="36.0950645" lon="10.3801709">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581959628" visible="true" version="2" changeset="19475797" timestamp="2013-12-16T04:02:30Z" user="meppen7" uid="17422" lat="35.7714282" lon="10.5250111">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581963133" visible="true" version="1" changeset="19475550" timestamp="2013-12-16T03:21:31Z" user="meppen7" uid="17422" lat="35.8064555" lon="10.5062277">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581963147" visible="true" version="1" changeset="19475550" timestamp="2013-12-16T03:21:31Z" user="meppen7" uid="17422" lat="35.8108124" lon="10.5038801">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581963161" visible="true" version="1" changeset="19475550" timestamp="2013-12-16T03:21:31Z" user="meppen7" uid="17422" lat="35.8178534" lon="10.5001006">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581963175" visible="true" version="1" changeset="19475550" timestamp="2013-12-16T03:21:32Z" user="meppen7" uid="17422" lat="35.8212230" lon="10.4982971">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581963191" visible="true" version="1" changeset="19475550" timestamp="2013-12-16T03:21:32Z" user="meppen7" uid="17422" lat="35.8246786" lon="10.4964404">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581963202" visible="true" version="1" changeset="19475550" timestamp="2013-12-16T03:21:32Z" user="meppen7" uid="17422" lat="35.8287101" lon="10.4942643">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581963211" visible="true" version="1" changeset="19475550" timestamp="2013-12-16T03:21:32Z" user="meppen7" uid="17422" lat="35.8400648" lon="10.4881601"/>
+ <node id="2581963223" visible="true" version="1" changeset="19475550" timestamp="2013-12-16T03:21:33Z" user="meppen7" uid="17422" lat="35.8438477" lon="10.4861567">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581963236" visible="true" version="1" changeset="19475550" timestamp="2013-12-16T03:21:33Z" user="meppen7" uid="17422" lat="35.8592081" lon="10.4778814">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581963249" visible="true" version="1" changeset="19475550" timestamp="2013-12-16T03:21:33Z" user="meppen7" uid="17422" lat="35.8679836" lon="10.4731427">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581963253" visible="true" version="1" changeset="19475550" timestamp="2013-12-16T03:21:33Z" user="meppen7" uid="17422" lat="35.8716881" lon="10.4711778">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581963254" visible="true" version="1" changeset="19475550" timestamp="2013-12-16T03:21:33Z" user="meppen7" uid="17422" lat="35.8833970" lon="10.4648756">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581963255" visible="true" version="1" changeset="19475550" timestamp="2013-12-16T03:21:34Z" user="meppen7" uid="17422" lat="35.8866699" lon="10.4631159">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581963256" visible="true" version="1" changeset="19475550" timestamp="2013-12-16T03:21:34Z" user="meppen7" uid="17422" lat="35.8902857" lon="10.4611718">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581963257" visible="true" version="1" changeset="19475550" timestamp="2013-12-16T03:21:34Z" user="meppen7" uid="17422" lat="35.8937486" lon="10.4593098">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581963258" visible="true" version="1" changeset="19475550" timestamp="2013-12-16T03:21:34Z" user="meppen7" uid="17422" lat="35.9107904" lon="10.4501285">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581963259" visible="true" version="1" changeset="19475550" timestamp="2013-12-16T03:21:35Z" user="meppen7" uid="17422" lat="35.9187551" lon="10.4458411">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581971832" visible="true" version="1" changeset="19475797" timestamp="2013-12-16T04:02:16Z" user="meppen7" uid="17422" lat="35.7518365" lon="10.5355259">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581971833" visible="true" version="1" changeset="19475797" timestamp="2013-12-16T04:02:16Z" user="meppen7" uid="17422" lat="35.7557815" lon="10.5333957">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581971834" visible="true" version="1" changeset="19475797" timestamp="2013-12-16T04:02:17Z" user="meppen7" uid="17422" lat="35.7676456" lon="10.5270414">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581971836" visible="true" version="1" changeset="19475797" timestamp="2013-12-16T04:02:17Z" user="meppen7" uid="17422" lat="35.7846552" lon="10.5179303">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581971837" visible="true" version="1" changeset="19475797" timestamp="2013-12-16T04:02:17Z" user="meppen7" uid="17422" lat="35.7881849" lon="10.5160283">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581971838" visible="true" version="1" changeset="19475797" timestamp="2013-12-16T04:02:17Z" user="meppen7" uid="17422" lat="35.7915245" lon="10.5142481">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2581971839" visible="true" version="1" changeset="19475797" timestamp="2013-12-16T04:02:18Z" user="meppen7" uid="17422" lat="35.8029190" lon="10.5081210">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4419250835" visible="true" version="1" changeset="42450549" timestamp="2016-09-26T16:49:39Z" user="bahnpirat" uid="13203" lat="35.7350875" lon="10.5456787">
+  <tag k="power" v="portal"/>
+ </node>
+ <node id="4419250841" visible="true" version="1" changeset="42450549" timestamp="2016-09-26T16:49:39Z" user="bahnpirat" uid="13203" lat="35.7367941" lon="10.5457268">
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4419251891" visible="true" version="1" changeset="42450549" timestamp="2016-09-26T16:49:40Z" user="bahnpirat" uid="13203" lat="35.7353744" lon="10.5452764"/>
+ <node id="4424228795" visible="true" version="1" changeset="42528416" timestamp="2016-09-29T20:24:00Z" user="bahnpirat" uid="13203" lat="35.7352300" lon="10.5454789"/>
+ <node id="4424228796" visible="true" version="1" changeset="42528416" timestamp="2016-09-29T20:24:00Z" user="bahnpirat" uid="13203" lat="35.7352943" lon="10.5453887"/>
+ <node id="6661821391" visible="true" version="2" changeset="73820036" timestamp="2019-08-28T03:53:51Z" user="BeagleChannel" uid="9320682" lat="36.0896977" lon="10.3926453"/>
+ <node id="6661821392" visible="true" version="3" changeset="87637838" timestamp="2020-07-07T07:28:42Z" user="Solheimajokull" uid="10334725" lat="36.0914729" lon="10.3920660"/>
+ <node id="6751674792" visible="true" version="2" changeset="87637838" timestamp="2020-07-07T07:28:42Z" user="Solheimajokull" uid="10334725" lat="36.0934235" lon="10.3914437"/>
+ <node id="9040487974" visible="true" version="1" changeset="110338813" timestamp="2021-08-27T12:02:23Z" user="Anis Ben Makhlouf" uid="10001069" lat="36.0916517" lon="10.3920090"/>
+ <node id="9040487975" visible="true" version="1" changeset="110338813" timestamp="2021-08-27T12:02:23Z" user="Anis Ben Makhlouf" uid="10001069" lat="36.0916611" lon="10.3921844"/>
+ <node id="9040487976" visible="true" version="1" changeset="110338813" timestamp="2021-08-27T12:02:23Z" user="Anis Ben Makhlouf" uid="10001069" lat="36.0915117" lon="10.3923046"/>
+ <node id="9040487977" visible="true" version="1" changeset="110338813" timestamp="2021-08-27T12:02:23Z" user="Anis Ben Makhlouf" uid="10001069" lat="36.0912304" lon="10.3925234"/>
+ <node id="9040487978" visible="true" version="1" changeset="110338813" timestamp="2021-08-27T12:02:23Z" user="Anis Ben Makhlouf" uid="10001069" lat="36.0911158" lon="10.3925696"/>
+ <node id="9040487979" visible="true" version="1" changeset="110338813" timestamp="2021-08-27T12:02:23Z" user="Anis Ben Makhlouf" uid="10001069" lat="36.0909963" lon="10.3926374"/>
+ <node id="9040487980" visible="true" version="1" changeset="110338813" timestamp="2021-08-27T12:02:23Z" user="Anis Ben Makhlouf" uid="10001069" lat="36.0908195" lon="10.3928068"/>
+ <node id="9040487981" visible="true" version="1" changeset="110338813" timestamp="2021-08-27T12:02:23Z" user="Anis Ben Makhlouf" uid="10001069" lat="36.0906428" lon="10.3930009"/>
+ <node id="9040487982" visible="true" version="1" changeset="110338813" timestamp="2021-08-27T12:02:23Z" user="Anis Ben Makhlouf" uid="10001069" lat="36.0905133" lon="10.3930595"/>
+ <node id="9040487983" visible="true" version="1" changeset="110338813" timestamp="2021-08-27T12:02:23Z" user="Anis Ben Makhlouf" uid="10001069" lat="36.0903639" lon="10.3930779"/>
+ <node id="9040487984" visible="true" version="1" changeset="110338813" timestamp="2021-08-27T12:02:23Z" user="Anis Ben Makhlouf" uid="10001069" lat="36.0902071" lon="10.3930656"/>
+ <node id="9040487985" visible="true" version="1" changeset="110338813" timestamp="2021-08-27T12:02:23Z" user="Anis Ben Makhlouf" uid="10001069" lat="36.0900402" lon="10.3930163"/>
+ <node id="9040487986" visible="true" version="1" changeset="110338813" timestamp="2021-08-27T12:02:23Z" user="Anis Ben Makhlouf" uid="10001069" lat="36.0899307" lon="10.3929824"/>
+ <node id="9040487987" visible="true" version="1" changeset="110338813" timestamp="2021-08-27T12:02:23Z" user="Anis Ben Makhlouf" uid="10001069" lat="36.0898162" lon="10.3929793"/>
+ <node id="9040487988" visible="true" version="1" changeset="110338813" timestamp="2021-08-27T12:02:23Z" user="Anis Ben Makhlouf" uid="10001069" lat="36.0896269" lon="10.3930256"/>
+ <node id="9040487989" visible="true" version="1" changeset="110338813" timestamp="2021-08-27T12:02:23Z" user="Anis Ben Makhlouf" uid="10001069" lat="36.0895025" lon="10.3930379"/>
+ <node id="9040487990" visible="true" version="1" changeset="110338813" timestamp="2021-08-27T12:02:23Z" user="Anis Ben Makhlouf" uid="10001069" lat="36.0893556" lon="10.3930102"/>
+ <node id="9040487991" visible="true" version="1" changeset="110338813" timestamp="2021-08-27T12:02:23Z" user="Anis Ben Makhlouf" uid="10001069" lat="36.0892161" lon="10.3929639"/>
+ <node id="9040487992" visible="true" version="1" changeset="110338813" timestamp="2021-08-27T12:02:23Z" user="Anis Ben Makhlouf" uid="10001069" lat="36.0891688" lon="10.3929177"/>
+ <node id="9040487993" visible="true" version="1" changeset="110338813" timestamp="2021-08-27T12:02:23Z" user="Anis Ben Makhlouf" uid="10001069" lat="36.0891346" lon="10.3928222"/>
+ <node id="9040487994" visible="true" version="1" changeset="110338813" timestamp="2021-08-27T12:02:23Z" user="Anis Ben Makhlouf" uid="10001069" lat="36.0906291" lon="10.3936673"/>
+ <node id="9040487995" visible="true" version="1" changeset="110338813" timestamp="2021-08-27T12:02:23Z" user="Anis Ben Makhlouf" uid="10001069" lat="36.0910410" lon="10.3957519"/>
+ <node id="9040487996" visible="true" version="1" changeset="110338813" timestamp="2021-08-27T12:02:23Z" user="Anis Ben Makhlouf" uid="10001069" lat="36.0905369" lon="10.3931723">
+  <tag k="entrance" v="yes"/>
+ </node>
+ <way id="55262219" visible="true" version="15" changeset="110961137" timestamp="2021-09-09T08:38:56Z" user="Mohamed_Gamal" uid="9945390">
+  <nd ref="694368806"/>
+  <nd ref="9040487993"/>
+  <nd ref="6661821391"/>
+  <nd ref="6661821392"/>
+  <nd ref="9040487974"/>
+  <nd ref="6751674792"/>
+  <nd ref="1455087460"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="الطريق الوطنية تونس - رأس جدير"/>
+  <tag k="name:ar" v="الطريق الوطنية تونس - رأس جدير"/>
+  <tag k="name:fr" v="Route Nationale Tunis - Ras Jedir"/>
+  <tag k="ref" v="RN1"/>
+  <tag k="ref:ar" v="ط و 1"/>
+  <tag k="ref:fr" v="RN1"/>
+ </way>
+ <way id="178486508" visible="true" version="18" changeset="95904256" timestamp="2020-12-15T23:11:55Z" user="مصطفى بلقاسم" uid="9535554">
+  <nd ref="1888902390"/>
+  <nd ref="1888902387"/>
+  <nd ref="1888902384"/>
+  <nd ref="1888902377"/>
+  <nd ref="1888902371"/>
+  <nd ref="2581943454"/>
+  <nd ref="2581943453"/>
+  <nd ref="2581943452"/>
+  <nd ref="2581943451"/>
+  <nd ref="2581943450"/>
+  <nd ref="2581954735"/>
+  <nd ref="2581954734"/>
+  <nd ref="1888317455"/>
+  <nd ref="2581954733"/>
+  <nd ref="2581954732"/>
+  <nd ref="2581954731"/>
+  <nd ref="2581954730"/>
+  <nd ref="2581954729"/>
+  <nd ref="2581954728"/>
+  <nd ref="2581954727"/>
+  <nd ref="2581954726"/>
+  <nd ref="2581954725"/>
+  <nd ref="2581923575"/>
+  <nd ref="1888317454"/>
+  <nd ref="2581923573"/>
+  <nd ref="2581923570"/>
+  <nd ref="1888317452"/>
+  <nd ref="2581923567"/>
+  <nd ref="2581923560"/>
+  <nd ref="1888317450"/>
+  <nd ref="2581923558"/>
+  <nd ref="2581923556"/>
+  <nd ref="1888317446"/>
+  <nd ref="2581923554"/>
+  <nd ref="1888317445"/>
+  <nd ref="2581923553"/>
+  <nd ref="2581954723"/>
+  <nd ref="1888317442"/>
+  <nd ref="1888317441"/>
+  <nd ref="2498823666"/>
+  <nd ref="2498823661"/>
+  <nd ref="2498823652"/>
+  <nd ref="2498823647"/>
+  <nd ref="1888317440"/>
+  <nd ref="2498829174"/>
+  <nd ref="2498829172"/>
+  <nd ref="2498829170"/>
+  <nd ref="2498829167"/>
+  <nd ref="2581963259"/>
+  <nd ref="2581963258"/>
+  <nd ref="2498823631"/>
+  <nd ref="2581963257"/>
+  <nd ref="2581963256"/>
+  <nd ref="2581963255"/>
+  <nd ref="2581963254"/>
+  <nd ref="1888760050"/>
+  <nd ref="2581963253"/>
+  <nd ref="2581963249"/>
+  <nd ref="2581963236"/>
+  <nd ref="1888760049"/>
+  <nd ref="2581963223"/>
+  <nd ref="2581963211"/>
+  <nd ref="1888760048"/>
+  <nd ref="2581963202"/>
+  <nd ref="2581963191"/>
+  <nd ref="2581963175"/>
+  <nd ref="2581963161"/>
+  <nd ref="1888760047"/>
+  <nd ref="2581963147"/>
+  <nd ref="2581963133"/>
+  <nd ref="2581971839"/>
+  <nd ref="1888760046"/>
+  <nd ref="1888317438"/>
+  <nd ref="2581971838"/>
+  <nd ref="2581971837"/>
+  <nd ref="2581971836"/>
+  <nd ref="1888317437"/>
+  <nd ref="1888191272"/>
+  <nd ref="2581959628"/>
+  <nd ref="2581971834"/>
+  <nd ref="1888191271"/>
+  <nd ref="1888191270"/>
+  <nd ref="2581971833"/>
+  <nd ref="2581971832"/>
+  <nd ref="1888892245"/>
+  <nd ref="1823228365"/>
+  <nd ref="1439468458"/>
+  <nd ref="4419250841"/>
+  <nd ref="1439456673"/>
+  <nd ref="1439456661"/>
+  <nd ref="4419250835"/>
+  <nd ref="4424228795"/>
+  <nd ref="4424228796"/>
+  <nd ref="4419251891"/>
+  <tag k="cables" v="3"/>
+  <tag k="name" v="خط 150 كف مساكن - النفيضة الشمالية"/>
+  <tag k="name:ar" v="خط 150 كف مساكن - النفيضة الشمالية"/>
+  <tag k="name:fr" v="LIGNE 150 Kv MSAKEN NORD ENFIDHA"/>
+  <tag k="operator" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:ar" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:website" v="https://www.steg.com.tn/ar/"/>
+  <tag k="operator:wikidata" v="Q3488699"/>
+  <tag k="operator:wikipedia" v="ar:الشركة التونسية للكهرباء والغاز"/>
+  <tag k="operator:wikipedia:ar" v="الشركة التونسية للكهرباء والغاز"/>
+  <tag k="power" v="line"/>
+  <tag k="voltage" v="150000"/>
+  <tag k="wires" v="single"/>
+ </way>
+ <way id="976948514" visible="true" version="1" changeset="110338813" timestamp="2021-08-27T12:02:23Z" user="Anis Ben Makhlouf" uid="10001069">
+  <nd ref="9040487974"/>
+  <nd ref="9040487975"/>
+  <nd ref="9040487976"/>
+  <nd ref="9040487977"/>
+  <nd ref="9040487978"/>
+  <nd ref="9040487979"/>
+  <nd ref="9040487980"/>
+  <nd ref="9040487981"/>
+  <nd ref="9040487982"/>
+  <nd ref="9040487983"/>
+  <nd ref="9040487984"/>
+  <nd ref="9040487985"/>
+  <nd ref="9040487986"/>
+  <nd ref="9040487987"/>
+  <nd ref="9040487988"/>
+  <nd ref="9040487989"/>
+  <nd ref="9040487990"/>
+  <nd ref="9040487991"/>
+  <nd ref="9040487992"/>
+  <nd ref="9040487993"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="976948515" visible="true" version="1" changeset="110338813" timestamp="2021-08-27T12:02:23Z" user="Anis Ben Makhlouf" uid="10001069">
+  <nd ref="9040487982"/>
+  <nd ref="9040487996"/>
+  <nd ref="9040487994"/>
+  <nd ref="9040487995"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <relation id="6618710" visible="true" version="1" changeset="42528416" timestamp="2016-09-29T20:24:02Z" user="bahnpirat" uid="13203">
+  <member type="way" ref="178486508" role="line"/>
+  <member type="way" ref="28943745" role="substation"/>
+  <member type="way" ref="131220525" role="substation"/>
+  <tag k="cables" v="3"/>
+  <tag k="route" v="power"/>
+  <tag k="type" v="route"/>
+  <tag k="voltage" v="150000"/>
+  <tag k="wires" v="single"/>
+ </relation>
+</osm>

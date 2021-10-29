@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.5 (2187694 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="36.0757422" minlon="10.4040527" maxlat="36.0846213" maxlon="10.4150391"/>
+ <node id="1111738109" visible="true" version="3" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0824396" lon="10.4279737"/>
+ <node id="1111738277" visible="true" version="4" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0838438" lon="10.4390618"/>
+ <node id="1111738368" visible="true" version="3" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0824354" lon="10.4267712"/>
+ <node id="1111738454" visible="true" version="1" changeset="7031631" timestamp="2011-01-20T15:43:07Z" user="ulrichm" uid="192829" lat="36.0816679" lon="10.4164774"/>
+ <node id="1111738463" visible="true" version="5" changeset="81205740" timestamp="2020-02-19T06:53:14Z" user="LanusOeste" uid="9320720" lat="36.0836346" lon="10.4397933"/>
+ <node id="1111738470" visible="true" version="2" changeset="12545531" timestamp="2012-07-30T09:46:14Z" user="ulrichm" uid="192829" lat="36.0793550" lon="10.4158278"/>
+ <node id="1111738712" visible="true" version="2" changeset="12545531" timestamp="2012-07-30T09:46:14Z" user="ulrichm" uid="192829" lat="36.0800491" lon="10.4159775"/>
+ <node id="1111738814" visible="true" version="4" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0838504" lon="10.4375785"/>
+ <node id="1111738977" visible="true" version="5" changeset="81205740" timestamp="2020-02-19T06:53:14Z" user="LanusOeste" uid="9320720" lat="36.0836372" lon="10.4400372"/>
+ <node id="1111738998" visible="true" version="2" changeset="12545531" timestamp="2012-07-30T09:46:15Z" user="ulrichm" uid="192829" lat="36.0803285" lon="10.4164680"/>
+ <node id="1111739106" visible="true" version="4" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0836403" lon="10.4372996"/>
+ <node id="1111739475" visible="true" version="2" changeset="12545531" timestamp="2012-07-30T09:46:15Z" user="ulrichm" uid="192829" lat="36.0799181" lon="10.4159179"/>
+ <node id="1111739623" visible="true" version="4" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0838421" lon="10.4397902"/>
+ <node id="1111739656" visible="true" version="2" changeset="12545531" timestamp="2012-07-30T09:46:16Z" user="ulrichm" uid="192829" lat="36.0802459" lon="10.4161995"/>
+ <node id="1111740032" visible="true" version="4" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0836489" lon="10.4375785"/>
+ <node id="1843408292" visible="true" version="2" changeset="72631254" timestamp="2019-07-25T07:52:44Z" user="MadelineIsland" uid="9447016" lat="36.0668036" lon="10.4531640"/>
+ <node id="1843408293" visible="true" version="2" changeset="72631254" timestamp="2019-07-25T07:52:44Z" user="MadelineIsland" uid="9447016" lat="36.0669185" lon="10.4530540"/>
+ <node id="1843408294" visible="true" version="2" changeset="72631254" timestamp="2019-07-25T07:52:44Z" user="MadelineIsland" uid="9447016" lat="36.0669922" lon="10.4529199"/>
+ <node id="1843408310" visible="true" version="2" changeset="72631254" timestamp="2019-07-25T07:52:44Z" user="MadelineIsland" uid="9447016" lat="36.0670161" lon="10.4527804"/>
+ <node id="1843408312" visible="true" version="2" changeset="72631254" timestamp="2019-07-25T07:52:44Z" user="MadelineIsland" uid="9447016" lat="36.0670247" lon="10.4526195"/>
+ <node id="1843408314" visible="true" version="2" changeset="72441537" timestamp="2019-07-19T17:47:51Z" user="Cooroora" uid="9535212" lat="36.0671722" lon="10.4140601"/>
+ <node id="1843408317" visible="true" version="2" changeset="72441537" timestamp="2019-07-19T17:47:51Z" user="Cooroora" uid="9535212" lat="36.0671819" lon="10.4138488"/>
+ <node id="1843408319" visible="true" version="2" changeset="72441537" timestamp="2019-07-19T17:47:51Z" user="Cooroora" uid="9535212" lat="36.0672134" lon="10.4136859"/>
+ <node id="1843408324" visible="true" version="2" changeset="72441537" timestamp="2019-07-19T17:47:51Z" user="Cooroora" uid="9535212" lat="36.0672730" lon="10.4135478"/>
+ <node id="1843408326" visible="true" version="2" changeset="72441537" timestamp="2019-07-19T17:47:51Z" user="Cooroora" uid="9535212" lat="36.0673570" lon="10.4134431"/>
+ <node id="1843408328" visible="true" version="2" changeset="72441537" timestamp="2019-07-19T17:47:51Z" user="Cooroora" uid="9535212" lat="36.0675212" lon="10.4133090"/>
+ <node id="1843408334" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0697500" lon="10.4549718"/>
+ <node id="1843408336" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0697652" lon="10.4503651"/>
+ <node id="1843408340" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0717229" lon="10.4619080"/>
+ <node id="1843408342" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0717749" lon="10.4549852"/>
+ <node id="1843408349" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0717814" lon="10.4503798"/>
+ <node id="1843408350" visible="true" version="3" changeset="81208277" timestamp="2020-02-19T07:51:39Z" user="Tauntaun" uid="8076764" lat="36.0719554" lon="10.4112035"/>
+ <node id="1843408361" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0742155" lon="10.4098731"/>
+ <node id="1843408363" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0742377" lon="10.4674226"/>
+ <node id="1843408365" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0742648" lon="10.4619348"/>
+ <node id="1843408367" visible="true" version="2" changeset="71846654" timestamp="2019-07-03T06:55:02Z" user="Baltoro01" uid="10019212" lat="36.0744306" lon="10.4093313"/>
+ <node id="1843408369" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:02Z" user="ulrichm" uid="192829" lat="36.0746649" lon="10.4092312"/>
+ <node id="1843408371" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:02Z" user="ulrichm" uid="192829" lat="36.0748160" lon="10.4091734"/>
+ <node id="1843408373" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:02Z" user="ulrichm" uid="192829" lat="36.0749811" lon="10.4091348"/>
+ <node id="1843408379" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:02Z" user="ulrichm" uid="192829" lat="36.0751708" lon="10.4091117"/>
+ <node id="1843408381" visible="true" version="3" changeset="81198424" timestamp="2020-02-19T03:53:36Z" user="LanusOeste" uid="9320720" lat="36.0755148" lon="10.4098862">
+  <tag k="access" v="private"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="1843408383" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0769475" lon="10.4674253"/>
+ <node id="1843408385" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0769671" lon="10.4619428"/>
+ <node id="1843408409" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:02Z" user="ulrichm" uid="192829" lat="36.0790439" lon="10.4152085"/>
+ <node id="1843408415" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:03Z" user="ulrichm" uid="192829" lat="36.0790455" lon="10.4148413"/>
+ <node id="1843408417" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:03Z" user="ulrichm" uid="192829" lat="36.0792504" lon="10.4091387"/>
+ <node id="1843408419" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:03Z" user="ulrichm" uid="192829" lat="36.0793321" lon="10.4146356"/>
+ <node id="1843408421" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0793690" lon="10.4145469"/>
+ <node id="1843408423" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:03Z" user="ulrichm" uid="192829" lat="36.0793406" lon="10.4152104"/>
+ <node id="1843408425" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:03Z" user="ulrichm" uid="192829" lat="36.0793422" lon="10.4148432"/>
+ <node id="1843408427" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0793809" lon="10.4126573"/>
+ <node id="1843408429" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0793890" lon="10.4099040"/>
+ <node id="1843408438" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0794123" lon="10.4131655"/>
+ <node id="1843408439" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0794286" lon="10.4101360"/>
+ <node id="1843408440" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0794411" lon="10.4100441"/>
+ <node id="1843408441" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0794253" lon="10.4133157"/>
+ <node id="1843408442" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0794611" lon="10.4100059"/>
+ <node id="1843408443" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:03Z" user="ulrichm" uid="192829" lat="36.0794749" lon="10.4139784"/>
+ <node id="1843408444" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:03Z" user="ulrichm" uid="192829" lat="36.0794784" lon="10.4133780"/>
+ <node id="1843408445" visible="true" version="3" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0795196" lon="10.4148057"/>
+ <node id="1843408447" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0795150" lon="10.4139171"/>
+ <node id="1843408449" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0794952" lon="10.4099737"/>
+ <node id="1843408467" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0795155" lon="10.4134246"/>
+ <node id="1843408468" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:04Z" user="ulrichm" uid="192829" lat="36.0795298" lon="10.4146374"/>
+ <node id="1843408469" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:04Z" user="ulrichm" uid="192829" lat="36.0795337" lon="10.4139789"/>
+ <node id="1843408470" visible="true" version="2" changeset="71846654" timestamp="2019-07-03T06:55:02Z" user="Baltoro01" uid="10019212" lat="36.0796660" lon="10.4090470"/>
+ <node id="1843408471" visible="true" version="2" changeset="71846654" timestamp="2019-07-03T06:55:02Z" user="Baltoro01" uid="10019212" lat="36.0795034" lon="10.4091972"/>
+ <node id="1843408472" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:04Z" user="ulrichm" uid="192829" lat="36.0796534" lon="10.4139165"/>
+ <node id="1843408475" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:04Z" user="ulrichm" uid="192829" lat="36.0796550" lon="10.4134294"/>
+ <node id="1843408476" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:04Z" user="ulrichm" uid="192829" lat="36.0797092" lon="10.4091396"/>
+ <node id="1843408478" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:04Z" user="ulrichm" uid="192829" lat="36.0797322" lon="10.4092889"/>
+ <node id="1843408480" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:04Z" user="ulrichm" uid="192829" lat="36.0797340" lon="10.4089909"/>
+ <node id="1843408501" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:04Z" user="ulrichm" uid="192829" lat="36.0797796" lon="10.4099728"/>
+ <node id="1843408503" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:04Z" user="ulrichm" uid="192829" lat="36.0797997" lon="10.4094158"/>
+ <node id="1843408505" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:04Z" user="ulrichm" uid="192829" lat="36.0798030" lon="10.4088652"/>
+ <node id="1843408507" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:05Z" user="ulrichm" uid="192829" lat="36.0798202" lon="10.4139174"/>
+ <node id="1843408508" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:05Z" user="ulrichm" uid="192829" lat="36.0798215" lon="10.4135183"/>
+ <node id="1843408509" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:05Z" user="ulrichm" uid="192829" lat="36.0798517" lon="10.4138821"/>
+ <node id="1843408510" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:05Z" user="ulrichm" uid="192829" lat="36.0798550" lon="10.4135510"/>
+ <node id="1843408511" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:05Z" user="ulrichm" uid="192829" lat="36.0798591" lon="10.4134304"/>
+ <node id="1843408512" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0798567" lon="10.4100046"/>
+ <node id="1843408513" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0799245" lon="10.4099818"/>
+ <node id="1843408525" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0799245" lon="10.4099127"/>
+ <node id="1843408527" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:05Z" user="ulrichm" uid="192829" lat="36.0799013" lon="10.4095011"/>
+ <node id="1843408529" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:05Z" user="ulrichm" uid="192829" lat="36.0799056" lon="10.4087817"/>
+ <node id="1843408531" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0799932" lon="10.4133120"/>
+ <node id="1843408533" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0800050" lon="10.4127376"/>
+ <node id="1843408535" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0800099" lon="10.4101603"/>
+ <node id="1843408537" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0800280" lon="10.4100635"/>
+ <node id="1843408539" visible="true" version="3" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0800287" lon="10.4099869">
+  <tag k="access" v="private"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="1843408541" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:05Z" user="ulrichm" uid="192829" lat="36.0800148" lon="10.4097049"/>
+ <node id="1843408542" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:05Z" user="ulrichm" uid="192829" lat="36.0800215" lon="10.4095319"/>
+ <node id="1843408544" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0800459" lon="10.4133180"/>
+ <node id="1843408546" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:05Z" user="ulrichm" uid="192829" lat="36.0800262" lon="10.4087532"/>
+ <node id="1843408559" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0800673" lon="10.4101619"/>
+ <node id="1843408561" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0800952" lon="10.4100609"/>
+ <node id="1843408563" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0801517" lon="10.4099823"/>
+ <node id="1843408565" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0801521" lon="10.4099100"/>
+ <node id="1843408568" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:06Z" user="ulrichm" uid="192829" lat="36.0801282" lon="10.4138863"/>
+ <node id="1843408570" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:06Z" user="ulrichm" uid="192829" lat="36.0801314" lon="10.4135551"/>
+ <node id="1843408571" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:06Z" user="ulrichm" uid="192829" lat="36.0801316" lon="10.4134315"/>
+ <node id="1843408572" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:06Z" user="ulrichm" uid="192829" lat="36.0801421" lon="10.4095033"/>
+ <node id="1843408576" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:06Z" user="ulrichm" uid="192829" lat="36.0801464" lon="10.4087840"/>
+ <node id="1843408578" visible="true" version="3" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0800500" lon="10.4127369"/>
+ <node id="1843408580" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0801636" lon="10.4100406"/>
+ <node id="1843408582" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:06Z" user="ulrichm" uid="192829" lat="36.0801691" lon="10.4139191"/>
+ <node id="1843408584" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:06Z" user="ulrichm" uid="192829" lat="36.0801705" lon="10.4135200"/>
+ <node id="1843408586" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0802150" lon="10.4100048"/>
+ <node id="1843408588" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:06Z" user="ulrichm" uid="192829" lat="36.0802447" lon="10.4094199"/>
+ <node id="1843408590" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:06Z" user="ulrichm" uid="192829" lat="36.0802480" lon="10.4088693"/>
+ <node id="1843408592" visible="true" version="1" changeset="12542466" timestamp="2012-07-30T01:25:06Z" user="ulrichm" uid="192829" lat="36.0803136" lon="10.4092942"/>
+ <node id="1843408823" visible="true" version="1" changeset="12542470" timestamp="2012-07-30T01:25:51Z" user="ulrichm" uid="192829" lat="36.0803154" lon="10.4089962"/>
+ <node id="1843408824" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0803282" lon="10.4139239"/>
+ <node id="1843408825" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0803250" lon="10.4134284"/>
+ <node id="1843408827" visible="true" version="1" changeset="12542470" timestamp="2012-07-30T01:25:51Z" user="ulrichm" uid="192829" lat="36.0803385" lon="10.4091454"/>
+ <node id="1843408828" visible="true" version="2" changeset="71846654" timestamp="2019-07-03T06:55:02Z" user="Baltoro01" uid="10019212" lat="36.0803900" lon="10.4090336"/>
+ <node id="1843408829" visible="true" version="2" changeset="71846654" timestamp="2019-07-03T06:55:02Z" user="Baltoro01" uid="10019212" lat="36.0804008" lon="10.4092602"/>
+ <node id="1843408831" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0804095" lon="10.4619697"/>
+ <node id="1843408832" visible="true" version="3" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0804514" lon="10.4148501"/>
+ <node id="1843408833" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0804534" lon="10.4145771"/>
+ <node id="1843408834" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0804496" lon="10.4139249"/>
+ <node id="1843408835" visible="true" version="1" changeset="12542470" timestamp="2012-07-30T01:25:52Z" user="ulrichm" uid="192829" lat="36.0804512" lon="10.4148024"/>
+ <node id="1843408836" visible="true" version="1" changeset="12542470" timestamp="2012-07-30T01:25:52Z" user="ulrichm" uid="192829" lat="36.0804560" lon="10.4139872"/>
+ <node id="1843408837" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0804897" lon="10.4139075"/>
+ <node id="1843408839" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0804610" lon="10.4134271"/>
+ <node id="1843408840" visible="true" version="1" changeset="12542470" timestamp="2012-07-30T01:25:52Z" user="ulrichm" uid="192829" lat="36.0805124" lon="10.4139877"/>
+ <node id="1843408841" visible="true" version="1" changeset="12542470" timestamp="2012-07-30T01:25:52Z" user="ulrichm" uid="192829" lat="36.0805160" lon="10.4133873"/>
+ <node id="1843408842" visible="true" version="1" changeset="12542470" timestamp="2012-07-30T01:25:52Z" user="ulrichm" uid="192829" lat="36.0805834" lon="10.4145888"/>
+ <node id="1843408844" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0806409" lon="10.4145757"/>
+ <node id="1843408845" visible="true" version="1" changeset="12542470" timestamp="2012-07-30T01:25:53Z" user="ulrichm" uid="192829" lat="36.0806710" lon="10.4091098"/>
+ <node id="1843408846" visible="true" version="1" changeset="12542470" timestamp="2012-07-30T01:25:53Z" user="ulrichm" uid="192829" lat="36.0806741" lon="10.4091849"/>
+ <node id="1843408847" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0807130" lon="10.4144926"/>
+ <node id="1843408848" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0807282" lon="10.4144416"/>
+ <node id="1843408849" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0807314" lon="10.4143826"/>
+ <node id="1843408850" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0807683" lon="10.4128675"/>
+ <node id="1843408851" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0807314" lon="10.4099764"/>
+ <node id="1843408852" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0807972" lon="10.4127464"/>
+ <node id="1843408853" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0807748" lon="10.4099898"/>
+ <node id="1843408854" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0808300" lon="10.4125873"/>
+ <node id="1843408855" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0808344" lon="10.4100528"/>
+ <node id="1843408857" visible="true" version="1" changeset="12542470" timestamp="2012-07-30T01:25:54Z" user="ulrichm" uid="192829" lat="36.0808383" lon="10.4148059"/>
+ <node id="1843408858" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0808724" lon="10.4145451"/>
+ <node id="1843408859" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0808848" lon="10.4127792"/>
+ <node id="1843408860" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0809039" lon="10.4099101"/>
+ <node id="1843408861" visible="true" version="1" changeset="12542470" timestamp="2012-07-30T01:25:54Z" user="ulrichm" uid="192829" lat="36.0808764" lon="10.4091485"/>
+ <node id="1843408863" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0811790" lon="10.4610470"/>
+ <node id="1843408864" visible="true" version="1" changeset="12542470" timestamp="2012-07-30T01:25:54Z" user="ulrichm" uid="192829" lat="36.0812083" lon="10.4577588"/>
+ <node id="1843408865" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0812452" lon="10.4509686"/>
+ <node id="1843408866" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0812376" lon="10.4506843"/>
+ <node id="1843408867" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0812636" lon="10.4467508"/>
+ <node id="1843408868" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0813286" lon="10.4464155"/>
+ <node id="1843408869" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0815064" lon="10.4458925"/>
+ <node id="1843408870" visible="true" version="1" changeset="12542470" timestamp="2012-07-30T01:25:54Z" user="ulrichm" uid="192829" lat="36.0815861" lon="10.4506932"/>
+ <node id="1843408871" visible="true" version="1" changeset="12542470" timestamp="2012-07-30T01:25:54Z" user="ulrichm" uid="192829" lat="36.0815861" lon="10.4509721"/>
+ <node id="1843408874" visible="true" version="3" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0821038" lon="10.4267642"/>
+ <node id="1843408875" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0821604" lon="10.4145546"/>
+ <node id="1843408877" visible="true" version="3" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0822583" lon="10.4279783"/>
+ <node id="1843408878" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0822571" lon="10.4280569"/>
+ <node id="1843408880" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0826162" lon="10.4444924"/>
+ <node id="1843408883" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0829686" lon="10.4280574"/>
+ <node id="1843408885" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0831603" lon="10.4324278"/>
+ <node id="1843408886" visible="true" version="3" changeset="81198971" timestamp="2020-02-19T04:09:50Z" user="LanusOeste" uid="9320720" lat="36.0831205" lon="10.4288913"/>
+ <node id="1843408887" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0832882" lon="10.4405066"/>
+ <node id="1843408889" visible="true" version="4" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0833148" lon="10.4371008"/>
+ <node id="1843408890" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0833083" lon="10.4367839"/>
+ <node id="1843408891" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0833413" lon="10.4610685"/>
+ <node id="1843408892" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0833624" lon="10.4585217"/>
+ <node id="1843408893" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0833576" lon="10.4577787"/>
+ <node id="1843408895" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0836388" lon="10.4405086"/>
+ <node id="1843408897" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0837003" lon="10.4367898"/>
+ <node id="1843408901" visible="true" version="3" changeset="81208277" timestamp="2020-02-19T07:51:39Z" user="Tauntaun" uid="8076764" lat="36.0840379" lon="10.4343770"/>
+ <node id="1843408902" visible="true" version="4" changeset="81208277" timestamp="2020-02-19T07:51:39Z" user="Tauntaun" uid="8076764" lat="36.0840436" lon="10.4324372"/>
+ <node id="1843408903" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0840165" lon="10.4409425"/>
+ <node id="1843408904" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0841011" lon="10.4410458"/>
+ <node id="1843408905" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0840837" lon="10.4445045"/>
+ <node id="1843408906" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0841251" lon="10.4363672"/>
+ <node id="1843408910" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0841800" lon="10.4361979"/>
+ <node id="1843408912" visible="true" version="3" changeset="81208277" timestamp="2020-02-19T07:51:39Z" user="Tauntaun" uid="8076764" lat="36.0841964" lon="10.4343818"/>
+ <node id="1843408944" visible="true" version="1" changeset="12542470" timestamp="2012-07-30T01:25:59Z" user="ulrichm" uid="192829" lat="36.0852522" lon="10.4091836"/>
+ <node id="1843668510" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0717446" lon="10.4613018"/>
+ <node id="1843668511" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0718508" lon="10.4604676"/>
+ <node id="1843668533" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0718638" lon="10.4606312"/>
+ <node id="1843668535" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0718833" lon="10.4548430"/>
+ <node id="1843668537" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0718920" lon="10.4529521"/>
+ <node id="1843668539" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0718985" lon="10.4505140"/>
+ <node id="1843668541" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0718877" lon="10.4607600"/>
+ <node id="1843668543" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0719592" lon="10.4388249"/>
+ <node id="1843668545" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0719657" lon="10.4352361"/>
+ <node id="1843668547" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0719375" lon="10.4609424"/>
+ <node id="1843668550" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0719939" lon="10.4611033"/>
+ <node id="1843668565" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0720393" lon="10.4186392"/>
+ <node id="1843668567" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0720492" lon="10.4147582"/>
+ <node id="1843668571" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0720708" lon="10.4114757"/>
+ <node id="1843668573" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0720936" lon="10.4113524"/>
+ <node id="1843668577" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0720763" lon="10.4612589"/>
+ <node id="1843668584" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0721305" lon="10.4112799"/>
+ <node id="1843668596" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0721933" lon="10.4614145"/>
+ <node id="1843668599" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0721901" lon="10.4112209"/>
+ <node id="1843668604" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0722714" lon="10.4615003"/>
+ <node id="1843668607" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0723906" lon="10.4615861"/>
+ <node id="1843668609" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0725207" lon="10.4616693"/>
+ <node id="1843668612" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0726616" lon="10.4617310"/>
+ <node id="1843668615" visible="true" version="1" changeset="12545406" timestamp="2012-07-30T09:35:13Z" user="ulrichm" uid="192829" lat="36.0727734" lon="10.4617755"/>
+ <node id="1843668645" visible="true" version="1" changeset="12545406" timestamp="2012-07-30T09:35:13Z" user="ulrichm" uid="192829" lat="36.0728955" lon="10.4617890"/>
+ <node id="1843668802" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0741174" lon="10.4100703"/>
+ <node id="1843668806" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0742258" lon="10.4100233"/>
+ <node id="1843668820" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0743042" lon="10.4618000"/>
+ <node id="1843668825" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0743027" lon="10.4100180"/>
+ <node id="1843669938" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0753011" lon="10.4618030"/>
+ <node id="1843669954" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0755164" lon="10.4147776"/>
+ <node id="1843669956" visible="true" version="1" changeset="12545417" timestamp="2012-07-30T09:36:07Z" user="ulrichm" uid="192829" lat="36.0755144" lon="10.4100271"/>
+ <node id="1843669958" visible="true" version="1" changeset="12545417" timestamp="2012-07-30T09:36:07Z" user="ulrichm" uid="192829" lat="36.0755173" lon="10.4091140"/>
+ <node id="1843670150" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0769385" lon="10.4618226"/>
+ <node id="1843670802" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0790048" lon="10.4100394"/>
+ <node id="1843670808" visible="true" version="1" changeset="12545417" timestamp="2012-07-30T09:36:25Z" user="ulrichm" uid="192829" lat="36.0790407" lon="10.4159001"/>
+ <node id="1843670810" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0790763" lon="10.4100475"/>
+ <node id="1843670881" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0791316" lon="10.4100810"/>
+ <node id="1843670903" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0792010" lon="10.4101534"/>
+ <node id="1843670926" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0792562" lon="10.4148005"/>
+ <node id="1843670929" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0792378" lon="10.4102245"/>
+ <node id="1843670932" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0792584" lon="10.4103090"/>
+ <node id="1843670981" visible="true" version="1" changeset="12545417" timestamp="2012-07-30T09:36:28Z" user="ulrichm" uid="192829" lat="36.0793419" lon="10.4149017"/>
+ <node id="1843670999" visible="true" version="1" changeset="12545417" timestamp="2012-07-30T09:36:29Z" user="ulrichm" uid="192829" lat="36.0795182" lon="10.4158380"/>
+ <node id="1843671036" visible="true" version="1" changeset="12545417" timestamp="2012-07-30T09:36:29Z" user="ulrichm" uid="192829" lat="36.0798148" lon="10.4618376"/>
+ <node id="1843671048" visible="true" version="1" changeset="12545417" timestamp="2012-07-30T09:36:30Z" user="ulrichm" uid="192829" lat="36.0799587" lon="10.4618349"/>
+ <node id="1843671060" visible="true" version="1" changeset="12545417" timestamp="2012-07-30T09:36:30Z" user="ulrichm" uid="192829" lat="36.0801026" lon="10.4618106"/>
+ <node id="1843671093" visible="true" version="1" changeset="12545417" timestamp="2012-07-30T09:36:31Z" user="ulrichm" uid="192829" lat="36.0801593" lon="10.4160673"/>
+ <node id="1843671159" visible="true" version="1" changeset="12545417" timestamp="2012-07-30T09:36:32Z" user="ulrichm" uid="192829" lat="36.0802378" lon="10.4617620"/>
+ <node id="1843671181" visible="true" version="1" changeset="12545417" timestamp="2012-07-30T09:36:33Z" user="ulrichm" uid="192829" lat="36.0803054" lon="10.4163533"/>
+ <node id="1843671219" visible="true" version="1" changeset="12545417" timestamp="2012-07-30T09:36:33Z" user="ulrichm" uid="192829" lat="36.0803599" lon="10.4616973"/>
+ <node id="1843671270" visible="true" version="1" changeset="12545417" timestamp="2012-07-30T09:36:37Z" user="ulrichm" uid="192829" lat="36.0804886" lon="10.4616001"/>
+ <node id="1843671287" visible="true" version="1" changeset="12545417" timestamp="2012-07-30T09:36:38Z" user="ulrichm" uid="192829" lat="36.0805954" lon="10.4615003"/>
+ <node id="1843671300" visible="true" version="1" changeset="12545417" timestamp="2012-07-30T09:36:39Z" user="ulrichm" uid="192829" lat="36.0807088" lon="10.4613546"/>
+ <node id="1843671306" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0808452" lon="10.4611731"/>
+ <node id="1843671313" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0809189" lon="10.4610121"/>
+ <node id="1843671320" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0809688" lon="10.4608270"/>
+ <node id="1843671324" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0809970" lon="10.4606795"/>
+ <node id="1843671326" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0810035" lon="10.4604945"/>
+ <node id="1843671327" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0810056" lon="10.4602584"/>
+ <node id="1843671328" visible="true" version="1" changeset="12545417" timestamp="2012-07-30T09:36:41Z" user="ulrichm" uid="192829" lat="36.0809952" lon="10.4584280"/>
+ <node id="1843671331" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0810642" lon="10.4469198"/>
+ <node id="1843671332" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0810902" lon="10.4464263"/>
+ <node id="1843671335" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0811292" lon="10.4462117"/>
+ <node id="1843671344" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0811769" lon="10.4460400"/>
+ <node id="1843671351" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0812549" lon="10.4458898"/>
+ <node id="1843671356" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0813525" lon="10.4457450"/>
+ <node id="1843671372" visible="true" version="1" changeset="12545417" timestamp="2012-07-30T09:36:44Z" user="ulrichm" uid="192829" lat="36.0815370" lon="10.4610537"/>
+ <node id="1843671393" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0817112" lon="10.4148594"/>
+ <node id="1843671394" visible="true" version="1" changeset="12545417" timestamp="2012-07-30T09:36:45Z" user="ulrichm" uid="192829" lat="36.0817010" lon="10.4149207"/>
+ <node id="1843671402" visible="true" version="1" changeset="12545417" timestamp="2012-07-30T09:36:46Z" user="ulrichm" uid="192829" lat="36.0817489" lon="10.4149476"/>
+ <node id="1843671403" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0817697" lon="10.4148754"/>
+ <node id="1843671407" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0818206" lon="10.4296585"/>
+ <node id="1843671408" visible="true" version="1" changeset="12545417" timestamp="2012-07-30T09:36:46Z" user="ulrichm" uid="192829" lat="36.0817904" lon="10.4149962"/>
+ <node id="1843671411" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0818250" lon="10.4149143"/>
+ <node id="1843671414" visible="true" version="1" changeset="12545417" timestamp="2012-07-30T09:36:47Z" user="ulrichm" uid="192829" lat="36.0818100" lon="10.4150529"/>
+ <node id="1843671415" visible="true" version="1" changeset="12545417" timestamp="2012-07-30T09:36:47Z" user="ulrichm" uid="192829" lat="36.0818100" lon="10.4164774"/>
+ <node id="1843671418" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0818651" lon="10.4196519"/>
+ <node id="1843671419" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0818597" lon="10.4149720"/>
+ <node id="1843671421" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0818781" lon="10.4150337"/>
+ <node id="1843671475" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0821040" lon="10.4267137"/>
+ <node id="1843671479" visible="true" version="3" changeset="81198971" timestamp="2020-02-19T04:09:50Z" user="LanusOeste" uid="9320720" lat="36.0821373" lon="10.4196541">
+  <tag k="access" v="private"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="1843671496" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0822559" lon="10.4280052"/>
+ <node id="1843671606" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0827192" lon="10.4440927"/>
+ <node id="1843671626" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0828113" lon="10.4439922"/>
+ <node id="1843671654" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0829284" lon="10.4439037"/>
+ <node id="1843671709" visible="true" version="2" changeset="81198971" timestamp="2020-02-19T04:09:50Z" user="LanusOeste" uid="9320720" lat="36.0830861" lon="10.4288448"/>
+ <node id="1843671715" visible="true" version="2" changeset="72643296" timestamp="2019-07-25T12:39:09Z" user="Vauxhall8" uid="9625188" lat="36.0830823" lon="10.4168951"/>
+ <node id="1843671739" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0830779" lon="10.4438393"/>
+ <node id="1843671741" visible="true" version="2" changeset="72643296" timestamp="2019-07-25T12:39:09Z" user="Vauxhall8" uid="9625188" lat="36.0831126" lon="10.4091784"/>
+ <node id="1843671743" visible="true" version="2" changeset="72643296" timestamp="2019-07-25T12:39:09Z" user="Vauxhall8" uid="9625188" lat="36.0831083" lon="10.4171795"/>
+ <node id="1843671773" visible="true" version="2" changeset="72643296" timestamp="2019-07-25T12:39:09Z" user="Vauxhall8" uid="9625188" lat="36.0831560" lon="10.4173914"/>
+ <node id="1843671799" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0832047" lon="10.4437964"/>
+ <node id="1843671811" visible="true" version="2" changeset="72643296" timestamp="2019-07-25T12:39:09Z" user="Vauxhall8" uid="9625188" lat="36.0832383" lon="10.4176435"/>
+ <node id="1843671833" visible="true" version="2" changeset="72643296" timestamp="2019-07-25T12:39:09Z" user="Vauxhall8" uid="9625188" lat="36.0833316" lon="10.4178151"/>
+ <node id="1843671840" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0833673" lon="10.4437776"/>
+ <node id="1843671842" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0833340" lon="10.4583434"/>
+ <node id="1843671844" visible="true" version="3" changeset="81206205" timestamp="2020-02-19T07:02:42Z" user="LanusOeste" uid="9320720" lat="36.0834008" lon="10.4584376">
+  <tag k="access" v="private"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="1843671846" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0833597" lon="10.4582559"/>
+ <node id="1843671855" visible="true" version="3" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0834638" lon="10.4401700"/>
+ <node id="1843671856" visible="true" version="3" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0834671" lon="10.4400440"/>
+ <node id="1843671874" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0834086" lon="10.4583432"/>
+ <node id="1843671876" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0834084" lon="10.4582558"/>
+ <node id="1843671878" visible="true" version="2" changeset="72643296" timestamp="2019-07-25T12:39:09Z" user="Vauxhall8" uid="9625188" lat="36.0834703" lon="10.4180056"/>
+ <node id="1843671880" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0835277" lon="10.4405978"/>
+ <node id="1843671894" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0835689" lon="10.4406032"/>
+ <node id="1843671899" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0836253" lon="10.4406247"/>
+ <node id="1843671921" visible="true" version="2" changeset="72643296" timestamp="2019-07-25T12:39:09Z" user="Vauxhall8" uid="9625188" lat="36.0837347" lon="10.4183328"/>
+ <node id="1843671930" visible="true" version="1" changeset="12545417" timestamp="2012-07-30T09:37:04Z" user="ulrichm" uid="192829" lat="36.0837690" lon="10.4437647"/>
+ <node id="1843671955" visible="true" version="2" changeset="72643296" timestamp="2019-07-25T12:39:09Z" user="Vauxhall8" uid="9625188" lat="36.0838561" lon="10.4185018"/>
+ <node id="1843671958" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0839114" lon="10.4436864"/>
+ <node id="1843671960" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0838962" lon="10.4409298"/>
+ <node id="1843671972" visible="true" version="2" changeset="72643296" timestamp="2019-07-25T12:39:09Z" user="Vauxhall8" uid="9625188" lat="36.0839168" lon="10.4186386"/>
+ <node id="1843671974" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0839342" lon="10.4436207"/>
+ <node id="1843671978" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0839287" lon="10.4409693"/>
+ <node id="1843671980" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0839396" lon="10.4435268"/>
+ <node id="1843671982" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0839450" lon="10.4410042"/>
+ <node id="1843671983" visible="true" version="2" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0839396" lon="10.4434182"/>
+ <node id="1843671987" visible="true" version="2" changeset="72643296" timestamp="2019-07-25T12:39:09Z" user="Vauxhall8" uid="9625188" lat="36.0839580" lon="10.4188049"/>
+ <node id="1843671998" visible="true" version="2" changeset="72643296" timestamp="2019-07-25T12:39:09Z" user="Vauxhall8" uid="9625188" lat="36.0839905" lon="10.4189283"/>
+ <node id="1843672003" visible="true" version="3" changeset="81198971" timestamp="2020-02-19T04:09:50Z" user="LanusOeste" uid="9320720" lat="36.0840377" lon="10.4343248"/>
+ <node id="1843672004" visible="true" version="3" changeset="81198971" timestamp="2020-02-19T04:09:50Z" user="LanusOeste" uid="9320720" lat="36.0840406" lon="10.4327380">
+  <tag k="access" v="private"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="1843680285" visible="true" version="4" changeset="81208277" timestamp="2020-02-19T07:51:39Z" user="Tauntaun" uid="8076764" lat="36.0829213" lon="10.4288424"/>
+ <node id="1843680287" visible="true" version="2" changeset="81198971" timestamp="2020-02-19T04:09:50Z" user="LanusOeste" uid="9320720" lat="36.0830857" lon="10.4288900"/>
+ <node id="3759608006" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0838476" lon="10.4382356"/>
+ <node id="3759608007" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0832947" lon="10.4401754"/>
+ <node id="3759608009" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0833197" lon="10.4401741"/>
+ <node id="3759608010" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0834906" lon="10.4371506"/>
+ <node id="3759608011" visible="true" version="1" changeset="34254030" timestamp="2015-09-25T22:36:23Z" user="Davvan" uid="2987661" lat="36.0834935" lon="10.4373018"/>
+ <node id="3759608012" visible="true" version="2" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0833182" lon="10.4371575"/>
+ <node id="6585810656" visible="true" version="1" changeset="71846654" timestamp="2019-07-03T06:55:02Z" user="Baltoro01" uid="10019212" lat="36.0819941" lon="10.4091623"/>
+ <node id="6585810657" visible="true" version="1" changeset="71846654" timestamp="2019-07-03T06:55:02Z" user="Baltoro01" uid="10019212" lat="36.0805287" lon="10.4092146"/>
+ <node id="6585810658" visible="true" version="1" changeset="71846654" timestamp="2019-07-03T06:55:02Z" user="Baltoro01" uid="10019212" lat="36.0805504" lon="10.4090805"/>
+ <node id="6585810659" visible="true" version="2" changeset="72678090" timestamp="2019-07-26T09:54:06Z" user="Vauxhall8" uid="9625188" lat="36.0712112" lon="10.4112142"/>
+ <node id="6585810660" visible="true" version="1" changeset="71846654" timestamp="2019-07-03T06:55:02Z" user="Baltoro01" uid="10019212" lat="36.0777735" lon="10.4091275"/>
+ <node id="6585810661" visible="true" version="1" changeset="71846654" timestamp="2019-07-03T06:55:02Z" user="Baltoro01" uid="10019212" lat="36.0795576" lon="10.4090805"/>
+ <node id="6585810662" visible="true" version="1" changeset="71846654" timestamp="2019-07-03T06:55:02Z" user="Baltoro01" uid="10019212" lat="36.0794286" lon="10.4091033"/>
+ <node id="6585810663" visible="true" version="1" changeset="71846654" timestamp="2019-07-03T06:55:02Z" user="Baltoro01" uid="10019212" lat="36.0796649" lon="10.4092374"/>
+ <node id="6585810664" visible="true" version="1" changeset="71846654" timestamp="2019-07-03T06:55:02Z" user="Baltoro01" uid="10019212" lat="36.0795977" lon="10.4092173"/>
+ <node id="6631943951" visible="true" version="1" changeset="72441537" timestamp="2019-07-19T17:47:51Z" user="Cooroora" uid="9535212" lat="36.0671874" lon="10.4178393"/>
+ <node id="6631943952" visible="true" version="2" changeset="72678090" timestamp="2019-07-26T09:54:06Z" user="Vauxhall8" uid="9625188" lat="36.0699235" lon="10.4119545"/>
+ <node id="6640050246" visible="true" version="2" changeset="88534136" timestamp="2020-07-26T22:42:38Z" user="Ghassen Aouinti" uid="1803433" lat="36.0406952" lon="10.4683104"/>
+ <node id="6645960337" visible="true" version="1" changeset="72630971" timestamp="2019-07-25T07:46:45Z" user="MadelineIsland" uid="9447016" lat="36.0671266" lon="10.4302150"/>
+ <node id="6645960338" visible="true" version="1" changeset="72630971" timestamp="2019-07-25T07:46:45Z" user="MadelineIsland" uid="9447016" lat="36.0671418" lon="10.4260334"/>
+ <node id="6645960339" visible="true" version="1" changeset="72630971" timestamp="2019-07-25T07:46:45Z" user="MadelineIsland" uid="9447016" lat="36.0671613" lon="10.4224420"/>
+ <node id="6645960340" visible="true" version="1" changeset="72630971" timestamp="2019-07-25T07:46:45Z" user="MadelineIsland" uid="9447016" lat="36.0671787" lon="10.4197034"/>
+ <node id="6645964857" visible="true" version="1" changeset="72631036" timestamp="2019-07-25T07:48:18Z" user="MadelineIsland" uid="9447016" lat="36.0670833" lon="10.4389000"/>
+ <node id="6645964858" visible="true" version="1" changeset="72631036" timestamp="2019-07-25T07:48:18Z" user="MadelineIsland" uid="9447016" lat="36.0670985" lon="10.4341927"/>
+ <node id="6645964859" visible="true" version="1" changeset="72631036" timestamp="2019-07-25T07:48:18Z" user="MadelineIsland" uid="9447016" lat="36.0671115" lon="10.4314113"/>
+ <node id="6645966907" visible="true" version="1" changeset="72631139" timestamp="2019-07-25T07:50:09Z" user="MadelineIsland" uid="9447016" lat="36.0670616" lon="10.4484111"/>
+ <node id="6645966908" visible="true" version="1" changeset="72631139" timestamp="2019-07-25T07:50:09Z" user="MadelineIsland" uid="9447016" lat="36.0670703" lon="10.4421562"/>
+ <node id="6645970236" visible="true" version="1" changeset="72631254" timestamp="2019-07-25T07:52:44Z" user="MadelineIsland" uid="9447016" lat="36.0670443" lon="10.4503101"/>
+ <node id="6645970237" visible="true" version="1" changeset="72631254" timestamp="2019-07-25T07:52:44Z" user="MadelineIsland" uid="9447016" lat="36.0664610" lon="10.4533491"/>
+ <node id="6646517916" visible="true" version="1" changeset="72643296" timestamp="2019-07-25T12:39:09Z" user="Vauxhall8" uid="9625188" lat="36.0830736" lon="10.4162192"/>
+ <node id="6646517917" visible="true" version="1" changeset="72643296" timestamp="2019-07-25T12:39:09Z" user="Vauxhall8" uid="9625188" lat="36.0830866" lon="10.4152778"/>
+ <node id="6646517918" visible="true" version="1" changeset="72643296" timestamp="2019-07-25T12:39:09Z" user="Vauxhall8" uid="9625188" lat="36.0830996" lon="10.4134834"/>
+ <node id="6646517919" visible="true" version="1" changeset="72643296" timestamp="2019-07-25T12:39:09Z" user="Vauxhall8" uid="9625188" lat="36.0831061" lon="10.4119384"/>
+ <node id="6646517920" visible="true" version="1" changeset="72643296" timestamp="2019-07-25T12:39:09Z" user="Vauxhall8" uid="9625188" lat="36.0831061" lon="10.4105625"/>
+ <node id="6646735017" visible="true" version="2" changeset="81198971" timestamp="2020-02-19T04:09:50Z" user="LanusOeste" uid="9320720" lat="36.0830080" lon="10.4288456">
+  <tag k="access" v="private"/>
+  <tag k="barrier" v="entrance"/>
+ </node>
+ <node id="6647124250" visible="true" version="3" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0832448" lon="10.4405951"/>
+ <node id="6649561474" visible="true" version="1" changeset="72678110" timestamp="2019-07-26T09:54:43Z" user="Vauxhall8" uid="9625188" lat="36.0721738" lon="10.4106456"/>
+ <node id="7223893571" visible="true" version="2" changeset="81208277" timestamp="2020-02-19T07:51:39Z" user="Tauntaun" uid="8076764" lat="36.0831703" lon="10.4316778"/>
+ <node id="7223893572" visible="true" version="1" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0831776" lon="10.4296839"/>
+ <node id="7223893573" visible="true" version="2" changeset="81208277" timestamp="2020-02-19T07:51:39Z" user="Tauntaun" uid="8076764" lat="36.0831272" lon="10.4295585"/>
+ <node id="7223893574" visible="true" version="1" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0837889" lon="10.4367810"/>
+ <node id="7223893575" visible="true" version="1" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0837488" lon="10.4367287"/>
+ <node id="7223893581" visible="true" version="1" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0834004" lon="10.4585150"/>
+ <node id="7223893582" visible="true" version="1" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0833998" lon="10.4583802"/>
+ <node id="7223893583" visible="true" version="1" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720" lat="36.0833310" lon="10.4583809"/>
+ <node id="7226232954" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0835987" lon="10.4406112"/>
+ <node id="7226232955" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0839526" lon="10.4410498"/>
+ <node id="7226232976" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0804802" lon="10.4139249"/>
+ <node id="7226232977" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0804873" lon="10.4139199"/>
+ <node id="7226232978" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0804875" lon="10.4134552"/>
+ <node id="7226232979" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0804821" lon="10.4134391"/>
+ <node id="7226232980" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0804767" lon="10.4134338"/>
+ <node id="7226232981" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0806794" lon="10.4145382"/>
+ <node id="7226232982" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0807520" lon="10.4129728"/>
+ <node id="7226232983" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0807596" lon="10.4129084"/>
+ <node id="7226232984" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0807804" lon="10.4128061"/>
+ <node id="7226296485" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0808216" lon="10.4126556"/>
+ <node id="7226296486" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0808430" lon="10.4101051"/>
+ <node id="7226296487" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0808116" lon="10.4100139"/>
+ <node id="7226296488" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0803325" lon="10.4099603"/>
+ <node id="7226296489" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0802838" lon="10.4099737"/>
+ <node id="7226296490" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0799543" lon="10.4100595"/>
+ <node id="7226296491" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0799109" lon="10.4100434"/>
+ <node id="7226296492" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0795305" lon="10.4099603"/>
+ <node id="7226296493" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0794654" lon="10.4133922"/>
+ <node id="7226296494" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0794470" lon="10.4133587"/>
+ <node id="7226296495" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0794210" lon="10.4132608"/>
+ <node id="7226296496" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0818835" lon="10.4151396"/>
+ <node id="7226296524" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0838518" lon="10.4437360"/>
+ <node id="7226296535" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0719028" lon="10.4487088"/>
+ <node id="7226296536" visible="true" version="1" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720" lat="36.0741716" lon="10.4100408"/>
+ <node id="7226685909" visible="true" version="1" changeset="81208846" timestamp="2020-02-19T08:04:52Z" user="LanusOeste" uid="9320720" lat="36.0821285" lon="10.4232144"/>
+ <node id="7226686818" visible="true" version="1" changeset="81208277" timestamp="2020-02-19T07:51:39Z" user="Tauntaun" uid="8076764" lat="36.0829219" lon="10.4286600"/>
+ <node id="7226686819" visible="true" version="1" changeset="81208277" timestamp="2020-02-19T07:51:39Z" user="Tauntaun" uid="8076764" lat="36.0829603" lon="10.4286573"/>
+ <node id="8235113658" visible="true" version="1" changeset="95954765" timestamp="2020-12-16T16:58:47Z" user="LRC1900" uid="11392964" lat="36.0424135" lon="10.4668030"/>
+ <node id="8235113659" visible="true" version="1" changeset="95954765" timestamp="2020-12-16T16:58:47Z" user="LRC1900" uid="11392964" lat="36.0445112" lon="10.4645913"/>
+ <node id="8235113660" visible="true" version="1" changeset="95954765" timestamp="2020-12-16T16:58:47Z" user="LRC1900" uid="11392964" lat="36.0471430" lon="10.4627096"/>
+ <node id="8235113661" visible="true" version="1" changeset="95954765" timestamp="2020-12-16T16:58:47Z" user="LRC1900" uid="11392964" lat="36.0506162" lon="10.4605369"/>
+ <node id="8235113662" visible="true" version="1" changeset="95954765" timestamp="2020-12-16T16:58:47Z" user="LRC1900" uid="11392964" lat="36.0457967" lon="10.4636209"/>
+ <node id="8235113663" visible="true" version="1" changeset="95954765" timestamp="2020-12-16T16:58:47Z" user="LRC1900" uid="11392964" lat="36.0433660" lon="10.4657401"/>
+ <node id="8235113664" visible="true" version="1" changeset="95954765" timestamp="2020-12-16T16:58:47Z" user="LRC1900" uid="11392964" lat="36.0415674" lon="10.4677016"/>
+ <way id="173546526" visible="true" version="3" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720">
+  <nd ref="1843408511"/>
+  <nd ref="1843408475"/>
+  <nd ref="1843408467"/>
+  <nd ref="1843408447"/>
+  <nd ref="1843408472"/>
+  <nd ref="1843408507"/>
+  <nd ref="1843408582"/>
+  <nd ref="1843408824"/>
+  <nd ref="1843408834"/>
+  <nd ref="7226232976"/>
+  <nd ref="7226232977"/>
+  <nd ref="1843408837"/>
+  <nd ref="7226232978"/>
+  <nd ref="7226232979"/>
+  <nd ref="7226232980"/>
+  <nd ref="1843408839"/>
+  <nd ref="1843408825"/>
+  <nd ref="1843408571"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="service"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="173546530" visible="true" version="1" changeset="12542470" timestamp="2012-07-30T01:27:38Z" user="ulrichm" uid="192829">
+  <nd ref="1843408576"/>
+  <nd ref="1843408546"/>
+  <nd ref="1843408529"/>
+  <nd ref="1843408505"/>
+  <nd ref="1843408480"/>
+  <nd ref="1843408476"/>
+  <nd ref="1843408478"/>
+  <nd ref="1843408503"/>
+  <nd ref="1843408527"/>
+  <nd ref="1843408542"/>
+  <nd ref="1843408572"/>
+  <nd ref="1843408588"/>
+  <nd ref="1843408592"/>
+  <nd ref="1843408827"/>
+  <nd ref="1843408823"/>
+  <nd ref="1843408590"/>
+  <nd ref="1843408576"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="junction" v="roundabout"/>
+ </way>
+ <way id="173546549" visible="true" version="2" changeset="81198424" timestamp="2020-02-19T03:53:36Z" user="LanusOeste" uid="9320720">
+  <nd ref="1843408824"/>
+  <nd ref="1843408825"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="parking_aisle"/>
+ </way>
+ <way id="173546550" visible="true" version="2" changeset="81208685" timestamp="2020-02-19T08:01:08Z" user="LanusOeste" uid="9320720">
+  <nd ref="1843408511"/>
+  <nd ref="1843408508"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="service"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="173546552" visible="true" version="2" changeset="81198424" timestamp="2020-02-19T03:53:36Z" user="LanusOeste" uid="9320720">
+  <nd ref="1843408475"/>
+  <nd ref="1843408472"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="parking_aisle"/>
+ </way>
+ <way id="173546561" visible="true" version="2" changeset="81198424" timestamp="2020-02-19T03:53:36Z" user="LanusOeste" uid="9320720">
+  <nd ref="1843408544"/>
+  <nd ref="1843408531"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="173546563" visible="true" version="2" changeset="81198424" timestamp="2020-02-19T03:53:36Z" user="LanusOeste" uid="9320720">
+  <nd ref="1843408508"/>
+  <nd ref="1843408584"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="service"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="173546573" visible="true" version="1" changeset="12542470" timestamp="2012-07-30T01:27:42Z" user="ulrichm" uid="192829">
+  <nd ref="1843408541"/>
+  <nd ref="1843408539"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="173546577" visible="true" version="2" changeset="81198424" timestamp="2020-02-19T03:53:36Z" user="LanusOeste" uid="9320720">
+  <nd ref="1843408539"/>
+  <nd ref="1843408537"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="173546579" visible="true" version="3" changeset="71846654" timestamp="2019-07-03T06:55:02Z" user="Baltoro01" uid="10019212">
+  <nd ref="1843408944"/>
+  <nd ref="1843671741"/>
+  <nd ref="6585810656"/>
+  <nd ref="1843408861"/>
+  <tag k="highway" v="unclassified"/>
+ </way>
+ <way id="173546587" visible="true" version="2" changeset="81198424" timestamp="2020-02-19T03:53:36Z" user="LanusOeste" uid="9320720">
+  <nd ref="1843408447"/>
+  <nd ref="1843408445"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="173546603" visible="true" version="2" changeset="81198424" timestamp="2020-02-19T03:53:36Z" user="LanusOeste" uid="9320720">
+  <nd ref="1843408582"/>
+  <nd ref="1843408584"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="service"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="173546607" visible="true" version="2" changeset="81198424" timestamp="2020-02-19T03:53:36Z" user="LanusOeste" uid="9320720">
+  <nd ref="1843408584"/>
+  <nd ref="1843408571"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="service"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="173546609" visible="true" version="2" changeset="81198424" timestamp="2020-02-19T03:53:36Z" user="LanusOeste" uid="9320720">
+  <nd ref="1843408508"/>
+  <nd ref="1843408507"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="service"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="173546615" visible="true" version="3" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720">
+  <nd ref="1843408833"/>
+  <nd ref="1843408842"/>
+  <nd ref="1843408844"/>
+  <nd ref="7226232981"/>
+  <nd ref="1843408847"/>
+  <nd ref="1843408848"/>
+  <nd ref="1843408849"/>
+  <nd ref="7226232982"/>
+  <nd ref="7226232983"/>
+  <nd ref="1843408850"/>
+  <nd ref="7226232984"/>
+  <nd ref="1843408852"/>
+  <nd ref="7226296485"/>
+  <nd ref="1843408854"/>
+  <nd ref="7226296486"/>
+  <nd ref="1843408855"/>
+  <nd ref="7226296487"/>
+  <nd ref="1843408853"/>
+  <nd ref="1843408851"/>
+  <nd ref="7226296488"/>
+  <nd ref="7226296489"/>
+  <nd ref="1843408586"/>
+  <nd ref="1843408580"/>
+  <nd ref="1843408561"/>
+  <nd ref="1843408537"/>
+  <nd ref="7226296490"/>
+  <nd ref="7226296491"/>
+  <nd ref="1843408512"/>
+  <nd ref="1843408501"/>
+  <nd ref="7226296492"/>
+  <nd ref="1843408449"/>
+  <nd ref="1843408442"/>
+  <nd ref="1843408440"/>
+  <nd ref="1843408439"/>
+  <nd ref="1843408438"/>
+  <nd ref="7226296495"/>
+  <nd ref="1843408441"/>
+  <nd ref="7226296494"/>
+  <nd ref="7226296493"/>
+  <nd ref="1843408467"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="173546624" visible="true" version="1" changeset="12542470" timestamp="2012-07-30T01:27:47Z" user="ulrichm" uid="192829">
+  <nd ref="1843408527"/>
+  <nd ref="1843408541"/>
+  <nd ref="1843408572"/>
+  <tag k="highway" v="service"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="173546635" visible="true" version="2" changeset="71846654" timestamp="2019-07-03T06:55:02Z" user="Baltoro01" uid="10019212">
+  <nd ref="1843408480"/>
+  <nd ref="1843408470"/>
+  <nd ref="6585810661"/>
+  <nd ref="6585810662"/>
+  <nd ref="1843408417"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="173546644" visible="true" version="2" changeset="81198424" timestamp="2020-02-19T03:53:36Z" user="LanusOeste" uid="9320720">
+  <nd ref="1843408834"/>
+  <nd ref="1843408833"/>
+  <nd ref="1843408832"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="173546647" visible="true" version="2" changeset="71846654" timestamp="2019-07-03T06:55:02Z" user="Baltoro01" uid="10019212">
+  <nd ref="1843408417"/>
+  <nd ref="1843408471"/>
+  <nd ref="6585810664"/>
+  <nd ref="6585810663"/>
+  <nd ref="1843408478"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="173546648" visible="true" version="3" changeset="81198424" timestamp="2020-02-19T03:53:36Z" user="LanusOeste" uid="9320720">
+  <nd ref="1843408852"/>
+  <nd ref="1843408578"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="173546653" visible="true" version="3" changeset="81198424" timestamp="2020-02-19T03:53:36Z" user="LanusOeste" uid="9320720">
+  <nd ref="1843408571"/>
+  <nd ref="1843408544"/>
+  <nd ref="1843408578"/>
+  <nd ref="1843408559"/>
+  <nd ref="1843408537"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="service"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="173546662" visible="true" version="2" changeset="81198424" timestamp="2020-02-19T03:53:36Z" user="LanusOeste" uid="9320720">
+  <nd ref="1843408537"/>
+  <nd ref="1843408535"/>
+  <nd ref="1843408533"/>
+  <nd ref="1843408531"/>
+  <nd ref="1843408511"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="service"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="173546673" visible="true" version="2" changeset="71846654" timestamp="2019-07-03T06:55:02Z" user="Baltoro01" uid="10019212">
+  <nd ref="1843408592"/>
+  <nd ref="1843408829"/>
+  <nd ref="6585810657"/>
+  <nd ref="1843408846"/>
+  <nd ref="1843408861"/>
+  <nd ref="1843408845"/>
+  <nd ref="6585810658"/>
+  <nd ref="1843408828"/>
+  <nd ref="1843408823"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="173546678" visible="true" version="1" changeset="12542470" timestamp="2012-07-30T01:27:55Z" user="ulrichm" uid="192829">
+  <nd ref="1843408427"/>
+  <nd ref="1843408859"/>
+  <nd ref="1843408858"/>
+  <nd ref="1843408857"/>
+  <nd ref="1843408835"/>
+  <nd ref="1843408836"/>
+  <nd ref="1843408469"/>
+  <nd ref="1843408468"/>
+  <nd ref="1843408419"/>
+  <nd ref="1843408421"/>
+  <nd ref="1843408427"/>
+  <tag k="landuse" v="grass"/>
+ </way>
+ <way id="173546681" visible="true" version="1" changeset="12542470" timestamp="2012-07-30T01:27:56Z" user="ulrichm" uid="192829">
+  <nd ref="1843408570"/>
+  <nd ref="1843408568"/>
+  <nd ref="1843408509"/>
+  <nd ref="1843408510"/>
+  <nd ref="1843408570"/>
+  <tag k="landuse" v="grass"/>
+ </way>
+ <way id="173546690" visible="true" version="3" changeset="81208846" timestamp="2020-02-19T08:04:52Z" user="LanusOeste" uid="9320720">
+  <nd ref="1843408874"/>
+  <nd ref="1843671475"/>
+  <nd ref="7226685909"/>
+  <nd ref="1843671479"/>
+  <nd ref="1843408875"/>
+  <nd ref="1843408858"/>
+  <nd ref="1843408859"/>
+  <nd ref="1843408860"/>
+  <nd ref="1843408565"/>
+  <nd ref="1843408563"/>
+  <nd ref="1843408539"/>
+  <nd ref="1843408513"/>
+  <nd ref="1843408525"/>
+  <nd ref="1843408429"/>
+  <nd ref="1843408427"/>
+  <nd ref="1843408421"/>
+  <tag k="barrier" v="fence"/>
+  <tag k="fence_type" v="barbed_wire"/>
+ </way>
+ <way id="173546691" visible="true" version="11" changeset="95954765" timestamp="2020-12-16T16:58:47Z" user="LRC1900" uid="11392964">
+  <nd ref="1843408417"/>
+  <nd ref="6585810660"/>
+  <nd ref="1843669958"/>
+  <nd ref="1843408379"/>
+  <nd ref="1843408373"/>
+  <nd ref="1843408371"/>
+  <nd ref="1843408369"/>
+  <nd ref="1843408367"/>
+  <nd ref="6649561474"/>
+  <nd ref="6585810659"/>
+  <nd ref="6631943952"/>
+  <nd ref="1843408328"/>
+  <nd ref="1843408326"/>
+  <nd ref="1843408324"/>
+  <nd ref="1843408319"/>
+  <nd ref="1843408317"/>
+  <nd ref="1843408314"/>
+  <nd ref="6631943951"/>
+  <nd ref="6645960340"/>
+  <nd ref="6645960339"/>
+  <nd ref="6645960338"/>
+  <nd ref="6645960337"/>
+  <nd ref="6645964859"/>
+  <nd ref="6645964858"/>
+  <nd ref="6645964857"/>
+  <nd ref="6645966908"/>
+  <nd ref="6645966907"/>
+  <nd ref="6645970236"/>
+  <nd ref="1843408312"/>
+  <nd ref="1843408310"/>
+  <nd ref="1843408294"/>
+  <nd ref="1843408293"/>
+  <nd ref="1843408292"/>
+  <nd ref="6645970237"/>
+  <nd ref="8235113661"/>
+  <nd ref="8235113660"/>
+  <nd ref="8235113662"/>
+  <nd ref="8235113659"/>
+  <nd ref="8235113663"/>
+  <nd ref="8235113658"/>
+  <nd ref="8235113664"/>
+  <nd ref="6640050246"/>
+  <tag k="highway" v="unclassified"/>
+ </way>
+ <way id="173546694" visible="true" version="3" changeset="81197992" timestamp="2020-02-19T03:41:17Z" user="LanusOeste" uid="9320720">
+  <nd ref="1843408429"/>
+  <nd ref="1843408381"/>
+  <nd ref="1843408361"/>
+  <nd ref="1843408350"/>
+  <nd ref="1843408349"/>
+  <nd ref="1843408336"/>
+  <nd ref="1843408334"/>
+  <nd ref="1843408342"/>
+  <nd ref="1843668510"/>
+  <nd ref="1843408340"/>
+  <nd ref="1843408365"/>
+  <nd ref="1843408363"/>
+  <nd ref="1843408383"/>
+  <nd ref="1843408385"/>
+  <nd ref="1843408831"/>
+  <nd ref="1843408863"/>
+  <nd ref="1843671372"/>
+  <nd ref="1843408891"/>
+  <nd ref="1843408892"/>
+  <nd ref="7223893581"/>
+  <nd ref="1843671844"/>
+  <nd ref="7223893582"/>
+  <nd ref="7223893583"/>
+  <nd ref="1843671842"/>
+  <tag k="barrier" v="fence"/>
+  <tag k="fence_type" v="barbed_wire"/>
+ </way>
+ <way id="173546696" visible="true" version="2" changeset="12545531" timestamp="2012-07-30T09:46:12Z" user="ulrichm" uid="192829">
+  <nd ref="1843408425"/>
+  <nd ref="1843408415"/>
+  <nd ref="1843408409"/>
+  <nd ref="1843408423"/>
+  <nd ref="1843670981"/>
+  <nd ref="1843408425"/>
+  <tag k="aeroway" v="helipad"/>
+ </way>
+ <way id="173546699" visible="true" version="2" changeset="81208685" timestamp="2020-02-19T08:01:08Z" user="LanusOeste" uid="9320720">
+  <nd ref="1843408840"/>
+  <nd ref="1843408841"/>
+  <nd ref="1843408444"/>
+  <nd ref="1843408443"/>
+  <nd ref="1843408469"/>
+  <nd ref="1843408836"/>
+  <nd ref="1843408840"/>
+  <tag k="access" v="private"/>
+  <tag k="amenity" v="parking"/>
+  <tag k="parking" v="surface"/>
+ </way>
+ <way id="173578508" visible="true" version="6" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720">
+  <nd ref="1843671407"/>
+  <nd ref="1843671418"/>
+  <nd ref="7226296496"/>
+  <nd ref="1843671421"/>
+  <nd ref="1843671419"/>
+  <nd ref="1843671411"/>
+  <nd ref="1843671403"/>
+  <nd ref="1843671393"/>
+  <nd ref="1843408832"/>
+  <nd ref="1843408445"/>
+  <nd ref="1843670926"/>
+  <nd ref="1843669954"/>
+  <nd ref="1843668567"/>
+  <nd ref="1843668565"/>
+  <nd ref="1843668545"/>
+  <nd ref="1843668543"/>
+  <nd ref="7226296535"/>
+  <nd ref="1843668539"/>
+  <nd ref="1843668537"/>
+  <nd ref="1843668535"/>
+  <nd ref="1843668511"/>
+  <nd ref="1843668533"/>
+  <nd ref="1843668541"/>
+  <nd ref="1843668547"/>
+  <nd ref="1843668550"/>
+  <nd ref="1843668577"/>
+  <nd ref="1843668596"/>
+  <nd ref="1843668604"/>
+  <nd ref="1843668607"/>
+  <nd ref="1843668609"/>
+  <nd ref="1843668612"/>
+  <nd ref="1843668615"/>
+  <nd ref="1843668645"/>
+  <nd ref="1843668820"/>
+  <nd ref="1843669938"/>
+  <nd ref="1843670150"/>
+  <nd ref="1843671036"/>
+  <nd ref="1843671048"/>
+  <nd ref="1843671060"/>
+  <nd ref="1843671159"/>
+  <nd ref="1843671219"/>
+  <nd ref="1843671270"/>
+  <nd ref="1843671287"/>
+  <nd ref="1843671300"/>
+  <nd ref="1843671306"/>
+  <nd ref="1843671313"/>
+  <nd ref="1843671320"/>
+  <nd ref="1843671324"/>
+  <nd ref="1843671326"/>
+  <nd ref="1843671327"/>
+  <nd ref="1843671328"/>
+  <nd ref="1843671331"/>
+  <nd ref="1843671332"/>
+  <nd ref="1843671335"/>
+  <nd ref="1843671344"/>
+  <nd ref="1843671351"/>
+  <nd ref="1843671356"/>
+  <nd ref="1843671606"/>
+  <nd ref="1843671626"/>
+  <nd ref="1843671654"/>
+  <nd ref="1843671739"/>
+  <nd ref="1843671799"/>
+  <nd ref="1843671840"/>
+  <nd ref="1843671930"/>
+  <nd ref="7226296524"/>
+  <nd ref="1843671958"/>
+  <nd ref="1843671974"/>
+  <nd ref="1843671980"/>
+  <nd ref="1843671983"/>
+  <nd ref="7226232955"/>
+  <nd ref="1843671982"/>
+  <nd ref="1843671978"/>
+  <nd ref="1843671960"/>
+  <nd ref="1843671899"/>
+  <nd ref="7226232954"/>
+  <nd ref="1843671894"/>
+  <nd ref="1843671880"/>
+  <nd ref="6647124250"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="173578509" visible="true" version="2" changeset="72643296" timestamp="2019-07-25T12:39:09Z" user="Vauxhall8" uid="9625188">
+  <nd ref="1843671998"/>
+  <nd ref="1843671987"/>
+  <nd ref="1843671972"/>
+  <nd ref="1843671955"/>
+  <nd ref="1843671921"/>
+  <nd ref="1843671878"/>
+  <nd ref="1843671833"/>
+  <nd ref="1843671811"/>
+  <nd ref="1843671773"/>
+  <nd ref="1843671743"/>
+  <nd ref="1843671715"/>
+  <nd ref="6646517916"/>
+  <nd ref="6646517917"/>
+  <nd ref="6646517918"/>
+  <nd ref="6646517919"/>
+  <nd ref="6646517920"/>
+  <nd ref="1843671741"/>
+  <tag k="highway" v="unclassified"/>
+ </way>
+ <way id="173578517" visible="true" version="3" changeset="81203870" timestamp="2020-02-19T06:15:50Z" user="LanusOeste" uid="9320720">
+  <nd ref="1843668567"/>
+  <nd ref="1843668571"/>
+  <nd ref="1843668573"/>
+  <nd ref="1843668584"/>
+  <nd ref="1843668599"/>
+  <nd ref="1843668802"/>
+  <nd ref="7226296536"/>
+  <nd ref="1843668806"/>
+  <nd ref="1843668825"/>
+  <nd ref="1843669956"/>
+  <nd ref="1843670802"/>
+  <nd ref="1843670810"/>
+  <nd ref="1843670881"/>
+  <nd ref="1843670903"/>
+  <nd ref="1843670929"/>
+  <nd ref="1843670932"/>
+  <nd ref="1843670926"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="173579537" visible="true" version="14" changeset="88508382" timestamp="2020-07-25T23:24:58Z" user="Sal73x" uid="1293386">
+  <nd ref="1843408875"/>
+  <nd ref="1843408858"/>
+  <nd ref="1843408859"/>
+  <nd ref="1843408860"/>
+  <nd ref="1843408565"/>
+  <nd ref="1843408563"/>
+  <nd ref="1843408539"/>
+  <nd ref="1843408513"/>
+  <nd ref="1843408525"/>
+  <nd ref="1843408429"/>
+  <nd ref="1843408381"/>
+  <nd ref="1843408361"/>
+  <nd ref="1843408350"/>
+  <nd ref="1843408349"/>
+  <nd ref="1843408336"/>
+  <nd ref="1843408334"/>
+  <nd ref="1843408342"/>
+  <nd ref="1843668510"/>
+  <nd ref="1843408340"/>
+  <nd ref="1843408365"/>
+  <nd ref="1843408363"/>
+  <nd ref="1843408383"/>
+  <nd ref="1843408385"/>
+  <nd ref="1843408831"/>
+  <nd ref="1843408863"/>
+  <nd ref="1843671372"/>
+  <nd ref="1843408891"/>
+  <nd ref="1843408892"/>
+  <nd ref="7223893581"/>
+  <nd ref="1843671844"/>
+  <nd ref="7223893582"/>
+  <nd ref="7223893583"/>
+  <nd ref="1843671842"/>
+  <nd ref="1843671874"/>
+  <nd ref="1843671876"/>
+  <nd ref="1843671846"/>
+  <nd ref="1843408893"/>
+  <nd ref="1843408864"/>
+  <nd ref="1843408865"/>
+  <nd ref="1843408871"/>
+  <nd ref="1843408870"/>
+  <nd ref="1843408866"/>
+  <nd ref="1843408867"/>
+  <nd ref="1843408868"/>
+  <nd ref="1843408869"/>
+  <nd ref="1843408880"/>
+  <nd ref="1843408905"/>
+  <nd ref="1843408904"/>
+  <nd ref="1843408903"/>
+  <nd ref="1843408895"/>
+  <nd ref="1843408887"/>
+  <nd ref="3759608007"/>
+  <nd ref="3759608009"/>
+  <nd ref="1843671855"/>
+  <nd ref="1843671856"/>
+  <nd ref="1111738977"/>
+  <nd ref="1111738463"/>
+  <nd ref="1111739623"/>
+  <nd ref="1111738277"/>
+  <nd ref="3759608006"/>
+  <nd ref="1111738814"/>
+  <nd ref="1111740032"/>
+  <nd ref="1111739106"/>
+  <nd ref="3759608011"/>
+  <nd ref="3759608010"/>
+  <nd ref="3759608012"/>
+  <nd ref="1843408889"/>
+  <nd ref="1843408890"/>
+  <nd ref="1843408897"/>
+  <nd ref="7223893575"/>
+  <nd ref="7223893574"/>
+  <nd ref="1843408906"/>
+  <nd ref="1843408910"/>
+  <nd ref="1843408912"/>
+  <nd ref="1843408901"/>
+  <nd ref="1843672003"/>
+  <nd ref="1843672004"/>
+  <nd ref="1843408902"/>
+  <nd ref="1843408885"/>
+  <nd ref="7223893571"/>
+  <nd ref="7223893572"/>
+  <nd ref="7223893573"/>
+  <nd ref="1843408886"/>
+  <nd ref="1843680287"/>
+  <nd ref="1843671709"/>
+  <nd ref="6646735017"/>
+  <nd ref="1843680285"/>
+  <nd ref="7226686818"/>
+  <nd ref="7226686819"/>
+  <nd ref="1843408883"/>
+  <nd ref="1843408878"/>
+  <nd ref="1843671496"/>
+  <nd ref="1843408877"/>
+  <nd ref="1111738109"/>
+  <nd ref="1111738368"/>
+  <nd ref="1843408874"/>
+  <nd ref="1843671475"/>
+  <nd ref="7226685909"/>
+  <nd ref="1843671479"/>
+  <nd ref="1843408875"/>
+  <tag k="aerodrome" v="international"/>
+  <tag k="aeroway" v="aerodrome"/>
+  <tag k="iata" v="NBE"/>
+  <tag k="icao" v="DTNZ"/>
+  <tag k="int_name" v="Enfidha Airport"/>
+  <tag k="name" v="مطار النفيضة الدولي"/>
+  <tag k="name:ar" v="مطار النفيضة الدولي"/>
+  <tag k="name:en" v="Enfidha - Hammamet International Airport"/>
+  <tag k="name:fr" v="Aéroport international d'Enfida"/>
+  <tag k="name:ja" v="エンフィダハンマメット国際空港"/>
+  <tag k="wikidata" v="Q1431260"/>
+  <tag k="wikipedia" v="en:Enfidha – Zine El Abidine Ben Ali International Airport"/>
+ </way>
+ <way id="173579571" visible="true" version="1" changeset="12545517" timestamp="2012-07-30T09:44:40Z" user="ulrichm" uid="192829">
+  <nd ref="1843671415"/>
+  <nd ref="1843671414"/>
+  <nd ref="1843671408"/>
+  <nd ref="1843671402"/>
+  <nd ref="1843671394"/>
+  <nd ref="1843670981"/>
+  <nd ref="1843408423"/>
+  <nd ref="1843408409"/>
+  <nd ref="1843670808"/>
+  <nd ref="1111738470"/>
+  <nd ref="1843670999"/>
+  <nd ref="1111739475"/>
+  <nd ref="1111738712"/>
+  <nd ref="1843671093"/>
+  <nd ref="1111739656"/>
+  <nd ref="1843671181"/>
+  <nd ref="1111738998"/>
+  <nd ref="1111738454"/>
+  <nd ref="1843671415"/>
+  <tag k="aeroway" v="apron"/>
+ </way>
+ <way id="707257457" visible="true" version="2" changeset="81198424" timestamp="2020-02-19T03:53:36Z" user="LanusOeste" uid="9320720">
+  <nd ref="1843408578"/>
+  <nd ref="1843408533"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="service"/>
+ </way>
+</osm>

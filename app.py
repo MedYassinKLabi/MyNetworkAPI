@@ -139,6 +139,7 @@ def getCellByCid(cid):
     if Cell:
         for doc in list(Cell):
             CellByCid.append({'radio':doc['radio'],'mcc': doc['mcc'],'mnc': doc['mnc'],'cid':doc['cid'],'area':doc['area'],'lon': doc['lon'],'lat':doc['lat'],'range':doc['range']})
+        print(CellByCid)
         return jsonify({"result":CellByCid, "success":True})
     else:
         return jsonify({"message": "Cell not found", "success": False})
